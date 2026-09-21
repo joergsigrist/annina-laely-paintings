@@ -98,11 +98,9 @@ function Site() {
         </a>
         <header className="site-header">
           <Link to={`/${lang}`} className="brand" aria-label="Annina Laely">
-            <span className="monogram">
-              AL<span>·</span>
-            </span>
+            <span className="monogram">AL</span>
             <span>
-              ANNINA LAELY<small>{t.art}</small>
+              ANNINA LAELY<small>PAINTINGS</small>
             </span>
           </Link>
           <button
@@ -171,7 +169,7 @@ function Site() {
         </main>
         <footer>
           <Link className="footer-name" to={`/${lang}`}>
-            Annina Laely<span>{t.art}</span>
+            Annina Laely<span>Paintings</span>
           </Link>
           <p>
             © {new Date().getFullYear()} Annina Laely
@@ -213,7 +211,7 @@ function Gallery() {
     <>
       <section className="gallery-intro">
         <div>
-          <p className="eyebrow">ANNINA LAELY · {t.art.toUpperCase()}</p>
+          <p className="eyebrow">ANNINA LAELY · PAINTINGS</p>
           <h1>{t.headline}</h1>
         </div>
         <p className="intro-copy">

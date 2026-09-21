@@ -117,9 +117,6 @@ svg {
   letter-spacing: -0.15em;
   line-height: 1;
 }
-.monogram span {
-  color: #8c947b;
-}
 .main-nav {
   display: flex;
   gap: 28px;
@@ -203,9 +200,6 @@ main {
 }
 .home-view .main-nav a::after {
   background: #fff;
-}
-.home-view .monogram span {
-  color: #fff;
 }
 .home-hero {
   position: relative;
