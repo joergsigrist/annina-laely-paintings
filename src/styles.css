@@ -302,18 +302,14 @@ main {
 }
 .art-grid {
   display: grid;
-  grid-template-columns: repeat(6, minmax(0, 1fr));
+  grid-template-columns: repeat(4, minmax(0, 1fr));
   gap: 56px 36px;
   padding: 32px 7% 50px;
   align-items: start;
 }
 .art-card {
-  grid-column: span 2;
+  grid-column: span 1;
   min-width: 0;
-}
-.art-card:first-child,
-.art-card:nth-child(2) {
-  grid-column: span 3;
 }
 .art-stage {
   position: relative;
@@ -1028,9 +1024,6 @@ input[type="file"] {
   .art-card:first-child,
   .art-card:nth-child(2) {
     grid-column: span 1;
-  }
-  .art-card:first-child {
-    grid-column: span 2;
   }
   .art-stage {
     padding: 14px;
