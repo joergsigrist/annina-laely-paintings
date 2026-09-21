@@ -1,0 +1,4546 @@
+[
+  {
+    "id": "abe87a4d-e069-42fe-a6ed-fd8692414550",
+    "slug": "version-1-2-3",
+    "kind": "painting",
+    "title": {
+      "de": "Version 1 2 3",
+      "en": "Version 1 2 3",
+      "fr": "Version 1 2 3"
+    },
+    "description": {
+      "de": "",
+      "en": "",
+      "fr": ""
+    },
+    "image": "/artworks/painting-0.png",
+    "source_url": "https://www.annina-laely-paintings.com/artwork/version-1-2-3",
+    "number": "158",
+    "dimensions": "3 x 30 x 30 cm",
+    "year": "2024",
+    "date": "01.04.2024",
+    "medium": {
+      "de": "Acryl auf Leinwand",
+      "en": "Acrylic on canvas",
+      "fr": "Acrylique sur toile"
+    },
+    "price": null,
+    "sold": false,
+    "published": true,
+    "sort_order": 0
+  },
+  {
+    "id": "fbfad895-9cac-45b4-abdd-f47ba07b4a6f",
+    "slug": "al_157",
+    "kind": "painting",
+    "title": {
+      "de": "AL_157",
+      "en": "AL_157",
+      "fr": "AL_157"
+    },
+    "description": {
+      "de": "",
+      "en": "",
+      "fr": ""
+    },
+    "image": "/artworks/painting-36.jpg",
+    "source_url": "https://www.annina-laely-paintings.com/artwork/al_157",
+    "number": "157",
+    "dimensions": "50 x 60 cm",
+    "year": "2024",
+    "date": "01.04.2024",
+    "medium": {
+      "de": "Acryl auf Leinwand",
+      "en": "Acrylic on canvas",
+      "fr": "Acrylique sur toile"
+    },
+    "price": null,
+    "sold": false,
+    "published": true,
+    "sort_order": 1
+  },
+  {
+    "id": "b4f1a18a-0eb7-47a0-a750-5b4f11497368",
+    "slug": "al_156",
+    "kind": "painting",
+    "title": {
+      "de": "AL_156",
+      "en": "AL_156",
+      "fr": "AL_156"
+    },
+    "description": {
+      "de": "",
+      "en": "",
+      "fr": ""
+    },
+    "image": "/artworks/painting-73.jpg",
+    "source_url": "https://www.annina-laely-paintings.com/artwork/al_156",
+    "number": "156",
+    "dimensions": "4 x 40 x 120 cm",
+    "year": "2021",
+    "date": "31.08.2021",
+    "medium": {
+      "de": "Acryl auf Leinwand",
+      "en": "Acrylic on canvas",
+      "fr": "Acrylique sur toile"
+    },
+    "price": null,
+    "sold": false,
+    "published": true,
+    "sort_order": 2
+  },
+  {
+    "id": "b5e775e6-29f6-43e3-ac5d-1a44dd617110",
+    "slug": "al_155",
+    "kind": "painting",
+    "title": {
+      "de": "AL_155",
+      "en": "AL_155",
+      "fr": "AL_155"
+    },
+    "description": {
+      "de": "",
+      "en": "",
+      "fr": ""
+    },
+    "image": "/artworks/painting-110.jpg",
+    "source_url": "https://www.annina-laely-paintings.com/artwork/al_155",
+    "number": "155",
+    "dimensions": "3 x 20 x 20 cm",
+    "year": "2021",
+    "date": "31.08.2021",
+    "medium": {
+      "de": "Acryl auf Leinwand",
+      "en": "Acrylic on canvas",
+      "fr": "Acrylique sur toile"
+    },
+    "price": null,
+    "sold": false,
+    "published": true,
+    "sort_order": 3
+  },
+  {
+    "id": "4e7d1405-ffc9-4ce3-a9db-c2ee509a47b1",
+    "slug": "al_154",
+    "kind": "painting",
+    "title": {
+      "de": "AL_154",
+      "en": "AL_154",
+      "fr": "AL_154"
+    },
+    "description": {
+      "de": "",
+      "en": "",
+      "fr": ""
+    },
+    "image": "/artworks/painting-1.jpg",
+    "source_url": "https://www.annina-laely-paintings.com/artwork/al_154",
+    "number": "154",
+    "dimensions": "20 x 20 cm",
+    "year": "2020",
+    "date": "31.08.2020",
+    "medium": {
+      "de": "Acryl auf Leinwand",
+      "en": "Acrylic on canvas",
+      "fr": "Acrylique sur toile"
+    },
+    "price": null,
+    "sold": false,
+    "published": true,
+    "sort_order": 4
+  },
+  {
+    "id": "16b46d8e-ac71-4b50-a11e-9fc5dc7447a2",
+    "slug": "maurin",
+    "kind": "painting",
+    "title": {
+      "de": "Maurin",
+      "en": "Maurin",
+      "fr": "Maurin"
+    },
+    "description": {
+      "de": "",
+      "en": "",
+      "fr": ""
+    },
+    "image": "/artworks/painting-37.jpg",
+    "source_url": "https://www.annina-laely-paintings.com/artwork/maurin",
+    "number": "153",
+    "dimensions": "60 x 80 cm",
+    "year": "2019",
+    "date": "01.02.2019",
+    "medium": {
+      "de": "Acryl auf Leinwand",
+      "en": "Acrylic on canvas",
+      "fr": "Acrylique sur toile"
+    },
+    "price": null,
+    "sold": false,
+    "published": true,
+    "sort_order": 5
+  },
+  {
+    "id": "5efa9d00-591c-4edb-ad63-cb0c44efa6d8",
+    "slug": "al_152",
+    "kind": "painting",
+    "title": {
+      "de": "AL_152",
+      "en": "AL_152",
+      "fr": "AL_152"
+    },
+    "description": {
+      "de": "",
+      "en": "",
+      "fr": ""
+    },
+    "image": "/artworks/painting-74.jpg",
+    "source_url": "https://www.annina-laely-paintings.com/artwork/al_152",
+    "number": "152",
+    "dimensions": "100 x 100 cm",
+    "year": "2017",
+    "date": "01.01.2017",
+    "medium": {
+      "de": "Acryl auf Leinwand",
+      "en": "Acrylic on canvas",
+      "fr": "Acrylique sur toile"
+    },
+    "price": 1900,
+    "sold": false,
+    "published": true,
+    "sort_order": 6
+  },
+  {
+    "id": "529dcc45-d6f3-4045-ab01-dc895cd8fd6d",
+    "slug": "al_150",
+    "kind": "painting",
+    "title": {
+      "de": "AL_150",
+      "en": "AL_150",
+      "fr": "AL_150"
+    },
+    "description": {
+      "de": "",
+      "en": "",
+      "fr": ""
+    },
+    "image": "/artworks/painting-111.jpg",
+    "source_url": "https://www.annina-laely-paintings.com/artwork/al_150",
+    "number": "150",
+    "dimensions": "50 x 100 cm",
+    "year": "2016",
+    "date": "01.12.2016",
+    "medium": {
+      "de": "Acryl auf Leinwand",
+      "en": "Acrylic on canvas",
+      "fr": "Acrylique sur toile"
+    },
+    "price": 1250,
+    "sold": false,
+    "published": true,
+    "sort_order": 7
+  },
+  {
+    "id": "333b6f09-9ce5-4926-af74-8d9c29ca8b27",
+    "slug": "al_148",
+    "kind": "painting",
+    "title": {
+      "de": "AL_148",
+      "en": "AL_148",
+      "fr": "AL_148"
+    },
+    "description": {
+      "de": "",
+      "en": "",
+      "fr": ""
+    },
+    "image": "/artworks/painting-2.jpg",
+    "source_url": "https://www.annina-laely-paintings.com/artwork/al_148",
+    "number": "148",
+    "dimensions": "100 x 70 cm",
+    "year": "2016",
+    "date": "01.05.2016",
+    "medium": {
+      "de": "Acryl auf Leinwand",
+      "en": "Acrylic on canvas",
+      "fr": "Acrylique sur toile"
+    },
+    "price": 1250,
+    "sold": false,
+    "published": true,
+    "sort_order": 8
+  },
+  {
+    "id": "4907996f-1ab2-4878-a86b-215805449429",
+    "slug": "al_147",
+    "kind": "painting",
+    "title": {
+      "de": "AL_147",
+      "en": "AL_147",
+      "fr": "AL_147"
+    },
+    "description": {
+      "de": "",
+      "en": "",
+      "fr": ""
+    },
+    "image": "/artworks/painting-38.jpg",
+    "source_url": "https://www.annina-laely-paintings.com/artwork/al_147",
+    "number": "147",
+    "dimensions": "100 x 100 cm",
+    "year": "2020",
+    "date": "08.07.2020",
+    "medium": {
+      "de": "Acryl auf Leinwand",
+      "en": "Acrylic on canvas",
+      "fr": "Acrylique sur toile"
+    },
+    "price": null,
+    "sold": false,
+    "published": true,
+    "sort_order": 9
+  },
+  {
+    "id": "5e87da86-b085-421b-a2d6-4cb9524bed06",
+    "slug": "al_146",
+    "kind": "painting",
+    "title": {
+      "de": "AL_146",
+      "en": "AL_146",
+      "fr": "AL_146"
+    },
+    "description": {
+      "de": "",
+      "en": "",
+      "fr": ""
+    },
+    "image": "/artworks/painting-75.jpg",
+    "source_url": "https://www.annina-laely-paintings.com/artwork/al_146",
+    "number": "146",
+    "dimensions": "140 x 100 cm",
+    "year": "2020",
+    "date": "31.08.2020",
+    "medium": {
+      "de": "Acryl auf Leinwand",
+      "en": "Acrylic on canvas",
+      "fr": "Acrylique sur toile"
+    },
+    "price": null,
+    "sold": false,
+    "published": true,
+    "sort_order": 10
+  },
+  {
+    "id": "e214a4cd-b311-4ac8-a2d3-96842f5be767",
+    "slug": "al_145",
+    "kind": "painting",
+    "title": {
+      "de": "AL_145",
+      "en": "AL_145",
+      "fr": "AL_145"
+    },
+    "description": {
+      "de": "",
+      "en": "",
+      "fr": ""
+    },
+    "image": "/artworks/painting-112.jpg",
+    "source_url": "https://www.annina-laely-paintings.com/artwork/al_145",
+    "number": "145",
+    "dimensions": "120 x 100 cm",
+    "year": "2016",
+    "date": "01.05.2016",
+    "medium": {
+      "de": "Acryl auf Leinwand",
+      "en": "Acrylic on canvas",
+      "fr": "Acrylique sur toile"
+    },
+    "price": 2000,
+    "sold": false,
+    "published": true,
+    "sort_order": 11
+  },
+  {
+    "id": "9c0920dc-f79e-4fe9-af55-f0d600228e7b",
+    "slug": "al_144",
+    "kind": "painting",
+    "title": {
+      "de": "AL_144",
+      "en": "AL_144",
+      "fr": "AL_144"
+    },
+    "description": {
+      "de": "",
+      "en": "",
+      "fr": ""
+    },
+    "image": "/artworks/painting-3.jpg",
+    "source_url": "https://www.annina-laely-paintings.com/artwork/al_144",
+    "number": "144",
+    "dimensions": "80 x 60 cm",
+    "year": "2016",
+    "date": "01.05.2016",
+    "medium": {
+      "de": "Acryl auf Leinwand",
+      "en": "Acrylic on canvas",
+      "fr": "Acrylique sur toile"
+    },
+    "price": 1050,
+    "sold": false,
+    "published": true,
+    "sort_order": 12
+  },
+  {
+    "id": "087df9d5-4e02-4069-a505-79c94b7d09e6",
+    "slug": "al_143",
+    "kind": "painting",
+    "title": {
+      "de": "AL_143",
+      "en": "AL_143",
+      "fr": "AL_143"
+    },
+    "description": {
+      "de": "",
+      "en": "",
+      "fr": ""
+    },
+    "image": "/artworks/painting-39.jpg",
+    "source_url": "https://www.annina-laely-paintings.com/artwork/al_143",
+    "number": "143",
+    "dimensions": "20 x 20 cm",
+    "year": "2016",
+    "date": "01.05.2016",
+    "medium": {
+      "de": "Acryl auf Leinwand",
+      "en": "Acrylic on canvas",
+      "fr": "Acrylique sur toile"
+    },
+    "price": 500,
+    "sold": false,
+    "published": true,
+    "sort_order": 13
+  },
+  {
+    "id": "c944c427-5612-4cbc-a33a-18ae7cee28d8",
+    "slug": "al_141",
+    "kind": "painting",
+    "title": {
+      "de": "AL_141",
+      "en": "AL_141",
+      "fr": "AL_141"
+    },
+    "description": {
+      "de": "",
+      "en": "",
+      "fr": ""
+    },
+    "image": "/artworks/painting-76.jpg",
+    "source_url": "https://www.annina-laely-paintings.com/artwork/al_141",
+    "number": "141",
+    "dimensions": "40 x 40 cm",
+    "year": "2016",
+    "date": "01.05.2016",
+    "medium": {
+      "de": "Acryl auf Leinwand",
+      "en": "Acrylic on canvas",
+      "fr": "Acrylique sur toile"
+    },
+    "price": 750,
+    "sold": false,
+    "published": true,
+    "sort_order": 14
+  },
+  {
+    "id": "812abf99-2b16-4ba5-a8be-9fbefdfc0a9c",
+    "slug": "al_140",
+    "kind": "painting",
+    "title": {
+      "de": "AL_140",
+      "en": "AL_140",
+      "fr": "AL_140"
+    },
+    "description": {
+      "de": "",
+      "en": "",
+      "fr": ""
+    },
+    "image": "/artworks/painting-113.jpg",
+    "source_url": "https://www.annina-laely-paintings.com/artwork/al_140",
+    "number": "140",
+    "dimensions": "100 x 120 cm",
+    "year": "2016",
+    "date": "01.09.2016",
+    "medium": {
+      "de": "Acryl auf Leinwand",
+      "en": "Acrylic on canvas",
+      "fr": "Acrylique sur toile"
+    },
+    "price": 2000,
+    "sold": false,
+    "published": true,
+    "sort_order": 15
+  },
+  {
+    "id": "3ca8890b-ab46-45d7-adb1-a7cb6aa79a59",
+    "slug": "al_139",
+    "kind": "painting",
+    "title": {
+      "de": "AL_139",
+      "en": "AL_139",
+      "fr": "AL_139"
+    },
+    "description": {
+      "de": "",
+      "en": "",
+      "fr": ""
+    },
+    "image": "/artworks/painting-4.jpg",
+    "source_url": "https://www.annina-laely-paintings.com/artwork/al_139",
+    "number": "139",
+    "dimensions": "50 x 40 cm",
+    "year": "2016",
+    "date": "01.01.2016",
+    "medium": {
+      "de": "Acryl auf Leinwand",
+      "en": "Acrylic on canvas",
+      "fr": "Acrylique sur toile"
+    },
+    "price": 950,
+    "sold": false,
+    "published": true,
+    "sort_order": 16
+  },
+  {
+    "id": "d9baf707-f7cf-4d22-a924-13453d5cf181",
+    "slug": "al_138",
+    "kind": "painting",
+    "title": {
+      "de": "AL_138",
+      "en": "AL_138",
+      "fr": "AL_138"
+    },
+    "description": {
+      "de": "",
+      "en": "",
+      "fr": ""
+    },
+    "image": "/artworks/painting-40.jpg",
+    "source_url": "https://www.annina-laely-paintings.com/artwork/al_138",
+    "number": "138",
+    "dimensions": "120 x 100 cm",
+    "year": "2016",
+    "date": "01.01.2016",
+    "medium": {
+      "de": "Acryl auf Leinwand",
+      "en": "Acrylic on canvas",
+      "fr": "Acrylique sur toile"
+    },
+    "price": 2000,
+    "sold": false,
+    "published": true,
+    "sort_order": 17
+  },
+  {
+    "id": "1970bd1a-5184-4d5e-a599-a93b58afc218",
+    "slug": "al_137",
+    "kind": "painting",
+    "title": {
+      "de": "AL_137",
+      "en": "AL_137",
+      "fr": "AL_137"
+    },
+    "description": {
+      "de": "",
+      "en": "",
+      "fr": ""
+    },
+    "image": "/artworks/painting-77.jpg",
+    "source_url": "https://www.annina-laely-paintings.com/artwork/al_137",
+    "number": "137",
+    "dimensions": "100 x 100 cm",
+    "year": "2016",
+    "date": "01.01.2016",
+    "medium": {
+      "de": "Acryl auf Leinwand",
+      "en": "Acrylic on canvas",
+      "fr": "Acrylique sur toile"
+    },
+    "price": 1900,
+    "sold": false,
+    "published": true,
+    "sort_order": 18
+  },
+  {
+    "id": "5a2d2ac6-6977-4e69-a327-0623f4e75af8",
+    "slug": "arina",
+    "kind": "painting",
+    "title": {
+      "de": "Arina",
+      "en": "Arina",
+      "fr": "Arina"
+    },
+    "description": {
+      "de": "",
+      "en": "",
+      "fr": ""
+    },
+    "image": "/artworks/painting-114.jpg",
+    "source_url": "https://www.annina-laely-paintings.com/artwork/arina",
+    "number": "136",
+    "dimensions": "55 x 46 cm",
+    "year": "2024",
+    "date": "05.04.2024",
+    "medium": {
+      "de": "Acryl auf Leinwand",
+      "en": "Acrylic on canvas",
+      "fr": "Acrylique sur toile"
+    },
+    "price": null,
+    "sold": false,
+    "published": true,
+    "sort_order": 19
+  },
+  {
+    "id": "1cc4665d-aa55-4071-a3fd-3f16db188dcd",
+    "slug": "unnamed",
+    "kind": "painting",
+    "title": {
+      "de": "unnamed",
+      "en": "unnamed",
+      "fr": "unnamed"
+    },
+    "description": {
+      "de": "",
+      "en": "",
+      "fr": ""
+    },
+    "image": "/artworks/painting-5.jpg",
+    "source_url": "https://www.annina-laely-paintings.com/artwork/unnamed",
+    "number": "135",
+    "dimensions": "50 x 40 cm",
+    "year": "2021",
+    "date": "31.08.2021",
+    "medium": {
+      "de": "Acryl auf Leinwand",
+      "en": "Acrylic on canvas",
+      "fr": "Acrylique sur toile"
+    },
+    "price": null,
+    "sold": false,
+    "published": true,
+    "sort_order": 20
+  },
+  {
+    "id": "a13e7ab1-9090-46a2-aa94-de9b42c70706",
+    "slug": "al_134",
+    "kind": "painting",
+    "title": {
+      "de": "AL_134",
+      "en": "AL_134",
+      "fr": "AL_134"
+    },
+    "description": {
+      "de": "",
+      "en": "",
+      "fr": ""
+    },
+    "image": "/artworks/painting-41.jpg",
+    "source_url": "https://www.annina-laely-paintings.com/artwork/al_134",
+    "number": "134",
+    "dimensions": "70 x 50 cm",
+    "year": "2014",
+    "date": "01.11.2014",
+    "medium": {
+      "de": "Acryl auf Leinwand",
+      "en": "Acrylic on canvas",
+      "fr": "Acrylique sur toile"
+    },
+    "price": 1050,
+    "sold": false,
+    "published": true,
+    "sort_order": 21
+  },
+  {
+    "id": "a4b608e2-6e4d-4da1-a928-92e5b463ae73",
+    "slug": "al_133",
+    "kind": "painting",
+    "title": {
+      "de": "AL_133",
+      "en": "AL_133",
+      "fr": "AL_133"
+    },
+    "description": {
+      "de": "",
+      "en": "",
+      "fr": ""
+    },
+    "image": "/artworks/painting-6.jpg",
+    "source_url": "https://www.annina-laely-paintings.com/artwork/al_133",
+    "number": "133",
+    "dimensions": "30 x 40 cm",
+    "year": "2014",
+    "date": "01.12.2014",
+    "medium": {
+      "de": "Acryl auf Leinwand",
+      "en": "Acrylic on canvas",
+      "fr": "Acrylique sur toile"
+    },
+    "price": 700,
+    "sold": false,
+    "published": true,
+    "sort_order": 22
+  },
+  {
+    "id": "3cab442b-4894-4b94-abc8-afca9f71eef5",
+    "slug": "al_133_b",
+    "kind": "painting",
+    "title": {
+      "de": "AL_133_B",
+      "en": "AL_133_B",
+      "fr": "AL_133_B"
+    },
+    "description": {
+      "de": "",
+      "en": "",
+      "fr": ""
+    },
+    "image": "/artworks/painting-78.jpg",
+    "source_url": "https://www.annina-laely-paintings.com/artwork/al_133_b",
+    "number": "133",
+    "dimensions": "40 x 30 cm",
+    "year": "2014",
+    "date": "01.12.2014",
+    "medium": {
+      "de": "Acryl auf Leinwand",
+      "en": "Acrylic on canvas",
+      "fr": "Acrylique sur toile"
+    },
+    "price": 700,
+    "sold": false,
+    "published": true,
+    "sort_order": 23
+  },
+  {
+    "id": "2e690f81-f20f-41a6-a7ff-6f8c61d2ceba",
+    "slug": "yuna",
+    "kind": "painting",
+    "title": {
+      "de": "Yuna",
+      "en": "Yuna",
+      "fr": "Yuna"
+    },
+    "description": {
+      "de": "",
+      "en": "",
+      "fr": ""
+    },
+    "image": "/artworks/painting-42.jpg",
+    "source_url": "https://www.annina-laely-paintings.com/artwork/yuna",
+    "number": "132",
+    "dimensions": "80 x 60 cm",
+    "year": "2015",
+    "date": "01.06.2015",
+    "medium": {
+      "de": "Acryl auf Leinwand",
+      "en": "Acrylic on canvas",
+      "fr": "Acrylique sur toile"
+    },
+    "price": 1100,
+    "sold": false,
+    "published": true,
+    "sort_order": 24
+  },
+  {
+    "id": "af85a07f-a101-40f5-a86f-b8197b0206b6",
+    "slug": "al_131",
+    "kind": "painting",
+    "title": {
+      "de": "AL_131",
+      "en": "AL_131",
+      "fr": "AL_131"
+    },
+    "description": {
+      "de": "",
+      "en": "",
+      "fr": ""
+    },
+    "image": "/artworks/painting-79.jpg",
+    "source_url": "https://www.annina-laely-paintings.com/artwork/al_131",
+    "number": "131",
+    "dimensions": "18 x 24 cm",
+    "year": "2014",
+    "date": "01.12.2014",
+    "medium": {
+      "de": "Acryl auf Leinwand",
+      "en": "Acrylic on canvas",
+      "fr": "Acrylique sur toile"
+    },
+    "price": 500,
+    "sold": false,
+    "published": true,
+    "sort_order": 25
+  },
+  {
+    "id": "72e51dca-d4d0-43a6-a766-b66165a841a5",
+    "slug": "jana",
+    "kind": "painting",
+    "title": {
+      "de": "Jana",
+      "en": "Jana",
+      "fr": "Jana"
+    },
+    "description": {
+      "de": "",
+      "en": "",
+      "fr": ""
+    },
+    "image": "/artworks/painting-7.jpg",
+    "source_url": "https://www.annina-laely-paintings.com/artwork/jana",
+    "number": "130",
+    "dimensions": "50 x 40 cm",
+    "year": "2014",
+    "date": "01.07.2014",
+    "medium": {
+      "de": "Acryl auf Leinwand",
+      "en": "Acrylic on canvas",
+      "fr": "Acrylique sur toile"
+    },
+    "price": 950,
+    "sold": false,
+    "published": true,
+    "sort_order": 26
+  },
+  {
+    "id": "1e1242d0-192f-4aa6-a53b-f1c6806ab72f",
+    "slug": "al_129",
+    "kind": "painting",
+    "title": {
+      "de": "AL_129",
+      "en": "AL_129",
+      "fr": "AL_129"
+    },
+    "description": {
+      "de": "",
+      "en": "",
+      "fr": ""
+    },
+    "image": "/artworks/painting-43.jpg",
+    "source_url": "https://www.annina-laely-paintings.com/artwork/al_129",
+    "number": "129",
+    "dimensions": "50 x 50 cm",
+    "year": "2014",
+    "date": "01.12.2014",
+    "medium": {
+      "de": "Acryl auf Leinwand",
+      "en": "Acrylic on canvas",
+      "fr": "Acrylique sur toile"
+    },
+    "price": 950,
+    "sold": false,
+    "published": true,
+    "sort_order": 27
+  },
+  {
+    "id": "a0e5aa0a-7732-4e30-a391-9d06ee525d05",
+    "slug": "al_128",
+    "kind": "painting",
+    "title": {
+      "de": "AL_128",
+      "en": "AL_128",
+      "fr": "AL_128"
+    },
+    "description": {
+      "de": "",
+      "en": "",
+      "fr": ""
+    },
+    "image": "/artworks/painting-80.jpg",
+    "source_url": "https://www.annina-laely-paintings.com/artwork/al_128",
+    "number": "128",
+    "dimensions": "80 x 60 cm",
+    "year": "2014",
+    "date": "01.12.2014",
+    "medium": {
+      "de": "Acryl auf Leinwand",
+      "en": "Acrylic on canvas",
+      "fr": "Acrylique sur toile"
+    },
+    "price": 1100,
+    "sold": false,
+    "published": true,
+    "sort_order": 28
+  },
+  {
+    "id": "2c7f07e6-341d-4e3f-aa53-e0e7f8d973f4",
+    "slug": "al_127",
+    "kind": "painting",
+    "title": {
+      "de": "AL_127",
+      "en": "AL_127",
+      "fr": "AL_127"
+    },
+    "description": {
+      "de": "",
+      "en": "",
+      "fr": ""
+    },
+    "image": "/artworks/painting-115.jpg",
+    "source_url": "https://www.annina-laely-paintings.com/artwork/al_127",
+    "number": "127",
+    "dimensions": "60 x 50cm",
+    "year": "2014",
+    "date": "01.12.2014",
+    "medium": {
+      "de": "Acryl auf Leinwand",
+      "en": "Acrylic on canvas",
+      "fr": "Acrylique sur toile"
+    },
+    "price": 1050,
+    "sold": false,
+    "published": true,
+    "sort_order": 29
+  },
+  {
+    "id": "f21ee544-0a1c-42e0-adf5-948aebca8196",
+    "slug": "livio-2",
+    "kind": "painting",
+    "title": {
+      "de": "Livio 2",
+      "en": "Livio 2",
+      "fr": "Livio 2"
+    },
+    "description": {
+      "de": "",
+      "en": "",
+      "fr": ""
+    },
+    "image": "/artworks/painting-8.jpg",
+    "source_url": "https://www.annina-laely-paintings.com/artwork/livio-2",
+    "number": "125",
+    "dimensions": "60 x 50 cm",
+    "year": "2024",
+    "date": "01.03.2024",
+    "medium": {
+      "de": "Acryl auf Leinwand",
+      "en": "Acrylic on canvas",
+      "fr": "Acrylique sur toile"
+    },
+    "price": 1050,
+    "sold": false,
+    "published": true,
+    "sort_order": 30
+  },
+  {
+    "id": "fe51f61c-8586-41ab-ac93-9616a426fc35",
+    "slug": "livio-1",
+    "kind": "painting",
+    "title": {
+      "de": "Livio 1",
+      "en": "Livio 1",
+      "fr": "Livio 1"
+    },
+    "description": {
+      "de": "",
+      "en": "",
+      "fr": ""
+    },
+    "image": "/artworks/painting-44.jpg",
+    "source_url": "https://www.annina-laely-paintings.com/artwork/livio-1",
+    "number": "124",
+    "dimensions": "70 x 50 cm",
+    "year": "2014",
+    "date": "01.05.2014",
+    "medium": {
+      "de": "Acryl auf Leinwand",
+      "en": "Acrylic on canvas",
+      "fr": "Acrylique sur toile"
+    },
+    "price": 1050,
+    "sold": false,
+    "published": true,
+    "sort_order": 31
+  },
+  {
+    "id": "0405207e-61e7-4d45-a74a-3ddcf8f2bf83",
+    "slug": "al_123_d",
+    "kind": "painting",
+    "title": {
+      "de": "AL_123_D",
+      "en": "AL_123_D",
+      "fr": "AL_123_D"
+    },
+    "description": {
+      "de": "",
+      "en": "",
+      "fr": ""
+    },
+    "image": "/artworks/painting-9.jpg",
+    "source_url": "https://www.annina-laely-paintings.com/artwork/al_123_d",
+    "number": "123",
+    "dimensions": "20 x 20 cm",
+    "year": "2014",
+    "date": "01.04.2014",
+    "medium": {
+      "de": "Acryl auf Leinwand",
+      "en": "Acrylic on canvas",
+      "fr": "Acrylique sur toile"
+    },
+    "price": null,
+    "sold": false,
+    "published": true,
+    "sort_order": 32
+  },
+  {
+    "id": "799ad4d1-6c80-4600-a723-339b97ba2ce9",
+    "slug": "al_123_c",
+    "kind": "painting",
+    "title": {
+      "de": "AL_123_C",
+      "en": "AL_123_C",
+      "fr": "AL_123_C"
+    },
+    "description": {
+      "de": "",
+      "en": "",
+      "fr": ""
+    },
+    "image": "/artworks/painting-45.jpg",
+    "source_url": "https://www.annina-laely-paintings.com/artwork/al_123_c",
+    "number": "123",
+    "dimensions": "20 x 20 cm",
+    "year": "2014",
+    "date": "01.04.2014",
+    "medium": {
+      "de": "Acryl auf Leinwand",
+      "en": "Acrylic on canvas",
+      "fr": "Acrylique sur toile"
+    },
+    "price": null,
+    "sold": false,
+    "published": true,
+    "sort_order": 33
+  },
+  {
+    "id": "cdb837e1-681e-4e7a-a072-ef0441ff85da",
+    "slug": "al_123_f",
+    "kind": "painting",
+    "title": {
+      "de": "AL_123_F",
+      "en": "AL_123_F",
+      "fr": "AL_123_F"
+    },
+    "description": {
+      "de": "",
+      "en": "",
+      "fr": ""
+    },
+    "image": "/artworks/painting-81.jpg",
+    "source_url": "https://www.annina-laely-paintings.com/artwork/al_123_f",
+    "number": "123",
+    "dimensions": "20 x 20 cm",
+    "year": "2014",
+    "date": "01.04.2014",
+    "medium": {
+      "de": "Acryl auf Leinwand",
+      "en": "Acrylic on canvas",
+      "fr": "Acrylique sur toile"
+    },
+    "price": null,
+    "sold": false,
+    "published": true,
+    "sort_order": 34
+  },
+  {
+    "id": "99560cfd-0f6d-4aac-a06b-2e688cbd3958",
+    "slug": "al_123_b",
+    "kind": "painting",
+    "title": {
+      "de": "AL_123_B",
+      "en": "AL_123_B",
+      "fr": "AL_123_B"
+    },
+    "description": {
+      "de": "",
+      "en": "",
+      "fr": ""
+    },
+    "image": "/artworks/painting-82.jpg",
+    "source_url": "https://www.annina-laely-paintings.com/artwork/al_123_b",
+    "number": "123",
+    "dimensions": "20 x 20 cm",
+    "year": "2014",
+    "date": "01.04.2014",
+    "medium": {
+      "de": "Acryl auf Leinwand",
+      "en": "Acrylic on canvas",
+      "fr": "Acrylique sur toile"
+    },
+    "price": null,
+    "sold": false,
+    "published": true,
+    "sort_order": 35
+  },
+  {
+    "id": "ca0333b0-256e-4bc0-a709-e8f9fa048f89",
+    "slug": "al_123_e",
+    "kind": "painting",
+    "title": {
+      "de": "AL_123_E",
+      "en": "AL_123_E",
+      "fr": "AL_123_E"
+    },
+    "description": {
+      "de": "",
+      "en": "",
+      "fr": ""
+    },
+    "image": "/artworks/painting-116.jpg",
+    "source_url": "https://www.annina-laely-paintings.com/artwork/al_123_e",
+    "number": "123",
+    "dimensions": "20 x 20 cm",
+    "year": "2014",
+    "date": "01.04.2014",
+    "medium": {
+      "de": "Acryl auf Leinwand",
+      "en": "Acrylic on canvas",
+      "fr": "Acrylique sur toile"
+    },
+    "price": null,
+    "sold": false,
+    "published": true,
+    "sort_order": 36
+  },
+  {
+    "id": "ea530739-0f6b-4a8a-a41e-6e7c61ca758a",
+    "slug": "al_123",
+    "kind": "painting",
+    "title": {
+      "de": "AL_123",
+      "en": "AL_123",
+      "fr": "AL_123"
+    },
+    "description": {
+      "de": "",
+      "en": "",
+      "fr": ""
+    },
+    "image": "/artworks/painting-117.jpg",
+    "source_url": "https://www.annina-laely-paintings.com/artwork/al_123",
+    "number": "123",
+    "dimensions": "20 x 20 cm",
+    "year": "2014",
+    "date": "01.04.2014",
+    "medium": {
+      "de": "Acryl auf Leinwand",
+      "en": "Acrylic on canvas",
+      "fr": "Acrylique sur toile"
+    },
+    "price": null,
+    "sold": false,
+    "published": true,
+    "sort_order": 37
+  },
+  {
+    "id": "ab1c425d-b060-496f-a9c6-47b28bc6c694",
+    "slug": "al_120",
+    "kind": "painting",
+    "title": {
+      "de": "AL_120",
+      "en": "AL_120",
+      "fr": "AL_120"
+    },
+    "description": {
+      "de": "",
+      "en": "",
+      "fr": ""
+    },
+    "image": "/artworks/painting-10.jpg",
+    "source_url": "https://www.annina-laely-paintings.com/artwork/al_120",
+    "number": "120",
+    "dimensions": "80 x 40 cm",
+    "year": "2013",
+    "date": "01.08.2013",
+    "medium": {
+      "de": "Acryl auf Leinwand",
+      "en": "Acrylic on canvas",
+      "fr": "Acrylique sur toile"
+    },
+    "price": 1050,
+    "sold": false,
+    "published": true,
+    "sort_order": 38
+  },
+  {
+    "id": "70642580-6605-4a22-a88b-42a7a2b3cee0",
+    "slug": "al_119",
+    "kind": "painting",
+    "title": {
+      "de": "AL_119",
+      "en": "AL_119",
+      "fr": "AL_119"
+    },
+    "description": {
+      "de": "",
+      "en": "",
+      "fr": ""
+    },
+    "image": "/artworks/painting-46.jpg",
+    "source_url": "https://www.annina-laely-paintings.com/artwork/al_119",
+    "number": "119",
+    "dimensions": "3 x 20 x 20 cm",
+    "year": "2013",
+    "date": "01.07.2013",
+    "medium": {
+      "de": "Acryl auf Leinwand",
+      "en": "Acrylic on canvas",
+      "fr": "Acrylique sur toile"
+    },
+    "price": null,
+    "sold": false,
+    "published": true,
+    "sort_order": 39
+  },
+  {
+    "id": "583b12a8-91ee-4728-a3ae-3dec5d840200",
+    "slug": "al_118",
+    "kind": "painting",
+    "title": {
+      "de": "AL_118",
+      "en": "AL_118",
+      "fr": "AL_118"
+    },
+    "description": {
+      "de": "",
+      "en": "",
+      "fr": ""
+    },
+    "image": "/artworks/painting-83.jpg",
+    "source_url": "https://www.annina-laely-paintings.com/artwork/al_118",
+    "number": "118",
+    "dimensions": "3 x 40 x80 cm",
+    "year": "2013",
+    "date": "01.08.2013",
+    "medium": {
+      "de": "Acryl auf Leinwand",
+      "en": "Acrylic on canvas",
+      "fr": "Acrylique sur toile"
+    },
+    "price": 4150,
+    "sold": false,
+    "published": true,
+    "sort_order": 40
+  },
+  {
+    "id": "8d31638a-1f93-4814-aabf-ecc11824a976",
+    "slug": "al_117",
+    "kind": "painting",
+    "title": {
+      "de": "AL_117",
+      "en": "AL_117",
+      "fr": "AL_117"
+    },
+    "description": {
+      "de": "",
+      "en": "",
+      "fr": ""
+    },
+    "image": "/artworks/painting-118.jpg",
+    "source_url": "https://www.annina-laely-paintings.com/artwork/al_117",
+    "number": "117",
+    "dimensions": "80 x 60 cm",
+    "year": "2013",
+    "date": "01.04.2013",
+    "medium": {
+      "de": "Acryl auf Leinwand",
+      "en": "Acrylic on canvas",
+      "fr": "Acrylique sur toile"
+    },
+    "price": null,
+    "sold": false,
+    "published": true,
+    "sort_order": 41
+  },
+  {
+    "id": "389dd2ee-3720-4f8f-adfd-74350305d6be",
+    "slug": "al_115",
+    "kind": "painting",
+    "title": {
+      "de": "AL_115",
+      "en": "AL_115",
+      "fr": "AL_115"
+    },
+    "description": {
+      "de": "",
+      "en": "",
+      "fr": ""
+    },
+    "image": "/artworks/painting-47.jpg",
+    "source_url": "https://www.annina-laely-paintings.com/artwork/al_115",
+    "number": "115",
+    "dimensions": "80 x 60 cm",
+    "year": "2012",
+    "date": "01.10.2012",
+    "medium": {
+      "de": "Acryl auf Leinwand",
+      "en": "Acrylic on canvas",
+      "fr": "Acrylique sur toile"
+    },
+    "price": 1100,
+    "sold": false,
+    "published": true,
+    "sort_order": 42
+  },
+  {
+    "id": "fb2b8c5f-9181-4bd1-aaa2-f74f1fa9a3fa",
+    "slug": "al_114",
+    "kind": "painting",
+    "title": {
+      "de": "AL_114",
+      "en": "AL_114",
+      "fr": "AL_114"
+    },
+    "description": {
+      "de": "",
+      "en": "",
+      "fr": ""
+    },
+    "image": "/artworks/painting-84.jpg",
+    "source_url": "https://www.annina-laely-paintings.com/artwork/al_114",
+    "number": "114",
+    "dimensions": "50 x 70 cm",
+    "year": "2012",
+    "date": "01.10.2012",
+    "medium": {
+      "de": "Acryl auf Leinwand",
+      "en": "Acrylic on canvas",
+      "fr": "Acrylique sur toile"
+    },
+    "price": 1050,
+    "sold": false,
+    "published": true,
+    "sort_order": 43
+  },
+  {
+    "id": "784e8107-9121-446c-a01b-0ad179c119c5",
+    "slug": "arizona-4",
+    "kind": "painting",
+    "title": {
+      "de": "Arizona 4",
+      "en": "Arizona 4",
+      "fr": "Arizona 4"
+    },
+    "description": {
+      "de": "",
+      "en": "",
+      "fr": ""
+    },
+    "image": "/artworks/painting-119.jpg",
+    "source_url": "https://www.annina-laely-paintings.com/artwork/arizona-4",
+    "number": "113",
+    "dimensions": "50 x 70 cm",
+    "year": "2023",
+    "date": "21.02.2023",
+    "medium": {
+      "de": "Acryl auf Leinwand",
+      "en": "Acrylic on canvas",
+      "fr": "Acrylique sur toile"
+    },
+    "price": null,
+    "sold": false,
+    "published": true,
+    "sort_order": 44
+  },
+  {
+    "id": "b7dd4795-d270-4575-a716-63fbacaedd6e",
+    "slug": "al_112",
+    "kind": "painting",
+    "title": {
+      "de": "AL_112",
+      "en": "AL_112",
+      "fr": "AL_112"
+    },
+    "description": {
+      "de": "",
+      "en": "",
+      "fr": ""
+    },
+    "image": "/artworks/painting-11.jpg",
+    "source_url": "https://www.annina-laely-paintings.com/artwork/al_112",
+    "number": "112",
+    "dimensions": "60 x 60 cm",
+    "year": "2012",
+    "date": "01.10.2012",
+    "medium": {
+      "de": "Acryl auf Leinwand",
+      "en": "Acrylic on canvas",
+      "fr": "Acrylique sur toile"
+    },
+    "price": 1050,
+    "sold": false,
+    "published": true,
+    "sort_order": 45
+  },
+  {
+    "id": "e876573f-56d5-4187-a2bf-eb470d618230",
+    "slug": "al_111",
+    "kind": "painting",
+    "title": {
+      "de": "AL_111",
+      "en": "AL_111",
+      "fr": "AL_111"
+    },
+    "description": {
+      "de": "",
+      "en": "",
+      "fr": ""
+    },
+    "image": "/artworks/painting-48.jpg",
+    "source_url": "https://www.annina-laely-paintings.com/artwork/al_111",
+    "number": "111",
+    "dimensions": "100 x 80 cm",
+    "year": "2012",
+    "date": "01.09.2012",
+    "medium": {
+      "de": "Acryl auf Leinwand",
+      "en": "Acrylic on canvas",
+      "fr": "Acrylique sur toile"
+    },
+    "price": 1500,
+    "sold": false,
+    "published": true,
+    "sort_order": 46
+  },
+  {
+    "id": "0f5c2a24-5228-4b2e-ac05-b8c8c23563c3",
+    "slug": "al_110",
+    "kind": "painting",
+    "title": {
+      "de": "AL_110",
+      "en": "AL_110",
+      "fr": "AL_110"
+    },
+    "description": {
+      "de": "",
+      "en": "",
+      "fr": ""
+    },
+    "image": "/artworks/painting-85.jpg",
+    "source_url": "https://www.annina-laely-paintings.com/artwork/al_110",
+    "number": "110",
+    "dimensions": "100 x 80 cm",
+    "year": "2012",
+    "date": "01.09.2012",
+    "medium": {
+      "de": "Acryl auf Leinwand",
+      "en": "Acrylic on canvas",
+      "fr": "Acrylique sur toile"
+    },
+    "price": null,
+    "sold": false,
+    "published": true,
+    "sort_order": 47
+  },
+  {
+    "id": "02a22004-f441-4433-a8b1-052dc60fdf19",
+    "slug": "al_109",
+    "kind": "painting",
+    "title": {
+      "de": "AL_109",
+      "en": "AL_109",
+      "fr": "AL_109"
+    },
+    "description": {
+      "de": "",
+      "en": "",
+      "fr": ""
+    },
+    "image": "/artworks/painting-120.jpg",
+    "source_url": "https://www.annina-laely-paintings.com/artwork/al_109",
+    "number": "109",
+    "dimensions": "70 x 50 cm",
+    "year": "2012",
+    "date": "01.08.2012",
+    "medium": {
+      "de": "Acryl auf Leinwand",
+      "en": "Acrylic on canvas",
+      "fr": "Acrylique sur toile"
+    },
+    "price": 1050,
+    "sold": false,
+    "published": true,
+    "sort_order": 48
+  },
+  {
+    "id": "e18c62d0-0bad-4be7-a7b1-cadaf76a28f4",
+    "slug": "luca-2",
+    "kind": "painting",
+    "title": {
+      "de": "Luca 2",
+      "en": "Luca 2",
+      "fr": "Luca 2"
+    },
+    "description": {
+      "de": "",
+      "en": "",
+      "fr": ""
+    },
+    "image": "/artworks/painting-12.jpg",
+    "source_url": "https://www.annina-laely-paintings.com/artwork/luca-2",
+    "number": "108",
+    "dimensions": "70 x 50 cm",
+    "year": "2012",
+    "date": "01.08.2012",
+    "medium": {
+      "de": "Acryl auf Leinwand",
+      "en": "Acrylic on canvas",
+      "fr": "Acrylique sur toile"
+    },
+    "price": 1050,
+    "sold": false,
+    "published": true,
+    "sort_order": 49
+  },
+  {
+    "id": "bc006eae-868a-4d97-a522-dc339ed49184",
+    "slug": "luca-1",
+    "kind": "painting",
+    "title": {
+      "de": "Luca 1",
+      "en": "Luca 1",
+      "fr": "Luca 1"
+    },
+    "description": {
+      "de": "",
+      "en": "",
+      "fr": ""
+    },
+    "image": "/artworks/painting-49.jpg",
+    "source_url": "https://www.annina-laely-paintings.com/artwork/luca-1",
+    "number": "107",
+    "dimensions": "70 x 50 cm",
+    "year": "2021",
+    "date": "31.08.2021",
+    "medium": {
+      "de": "Acryl auf Leinwand",
+      "en": "Acrylic on canvas",
+      "fr": "Acrylique sur toile"
+    },
+    "price": null,
+    "sold": false,
+    "published": true,
+    "sort_order": 50
+  },
+  {
+    "id": "fa034509-0efe-452f-a573-d02cdcb59d78",
+    "slug": "al_106",
+    "kind": "painting",
+    "title": {
+      "de": "AL_106",
+      "en": "AL_106",
+      "fr": "AL_106"
+    },
+    "description": {
+      "de": "",
+      "en": "",
+      "fr": ""
+    },
+    "image": "/artworks/painting-86.jpg",
+    "source_url": "https://www.annina-laely-paintings.com/artwork/al_106",
+    "number": "106",
+    "dimensions": "100 x 80 cm",
+    "year": "2021",
+    "date": "31.08.2021",
+    "medium": {
+      "de": "Acryl auf Leinwand",
+      "en": "Acrylic on canvas",
+      "fr": "Acrylique sur toile"
+    },
+    "price": null,
+    "sold": false,
+    "published": true,
+    "sort_order": 51
+  },
+  {
+    "id": "8e9208f6-ed40-4eb6-a542-46549237d323",
+    "slug": "bergsommer",
+    "kind": "painting",
+    "title": {
+      "de": "Bergsommer",
+      "en": "Mountain summer",
+      "fr": "Été en montagne"
+    },
+    "description": {
+      "de": "",
+      "en": "",
+      "fr": ""
+    },
+    "image": "/artworks/painting-121.jpg",
+    "source_url": "https://www.annina-laely-paintings.com/artwork/bergsommer",
+    "number": "105",
+    "dimensions": "40 x 30 cm",
+    "year": "2012",
+    "date": "01.08.2012",
+    "medium": {
+      "de": "Acryl auf Leinwand",
+      "en": "Acrylic on canvas",
+      "fr": "Acrylique sur toile"
+    },
+    "price": 700,
+    "sold": false,
+    "published": true,
+    "sort_order": 52
+  },
+  {
+    "id": "aee2ea04-89d7-4c19-adfe-6e82b810d77f",
+    "slug": "al_104",
+    "kind": "painting",
+    "title": {
+      "de": "AL_104",
+      "en": "AL_104",
+      "fr": "AL_104"
+    },
+    "description": {
+      "de": "",
+      "en": "",
+      "fr": ""
+    },
+    "image": "/artworks/painting-13.jpg",
+    "source_url": "https://www.annina-laely-paintings.com/artwork/al_104",
+    "number": "104",
+    "dimensions": "100 x 80 cm",
+    "year": "2020",
+    "date": "23.05.2020",
+    "medium": {
+      "de": "Acryl auf Leinwand",
+      "en": "Acrylic on canvas",
+      "fr": "Acrylique sur toile"
+    },
+    "price": null,
+    "sold": false,
+    "published": true,
+    "sort_order": 53
+  },
+  {
+    "id": "d85703aa-15bd-4eb0-a949-70391d1bf707",
+    "slug": "al_103",
+    "kind": "painting",
+    "title": {
+      "de": "AL_103",
+      "en": "AL_103",
+      "fr": "AL_103"
+    },
+    "description": {
+      "de": "",
+      "en": "",
+      "fr": ""
+    },
+    "image": "/artworks/painting-50.jpg",
+    "source_url": "https://www.annina-laely-paintings.com/artwork/al_103",
+    "number": "103",
+    "dimensions": "100 x 80 cm",
+    "year": "2012",
+    "date": "01.05.2012",
+    "medium": {
+      "de": "Acryl auf Leinwand",
+      "en": "Acrylic on canvas",
+      "fr": "Acrylique sur toile"
+    },
+    "price": 1500,
+    "sold": false,
+    "published": true,
+    "sort_order": 54
+  },
+  {
+    "id": "8a804ce2-3d68-457b-a710-51b36623dd41",
+    "slug": "al_102",
+    "kind": "painting",
+    "title": {
+      "de": "AL_102",
+      "en": "AL_102",
+      "fr": "AL_102"
+    },
+    "description": {
+      "de": "",
+      "en": "",
+      "fr": ""
+    },
+    "image": "/artworks/painting-87.jpg",
+    "source_url": "https://www.annina-laely-paintings.com/artwork/al_102",
+    "number": "102",
+    "dimensions": "80x60 cm",
+    "year": "2016",
+    "date": "01.05.2016",
+    "medium": {
+      "de": "Acryl auf Leinwand",
+      "en": "Acrylic on canvas",
+      "fr": "Acrylique sur toile"
+    },
+    "price": 1100,
+    "sold": false,
+    "published": true,
+    "sort_order": 55
+  },
+  {
+    "id": "f0a9ed53-1985-412c-ad8e-017dfe1e2ce8",
+    "slug": "al_101",
+    "kind": "painting",
+    "title": {
+      "de": "AL_101",
+      "en": "AL_101",
+      "fr": "AL_101"
+    },
+    "description": {
+      "de": "",
+      "en": "",
+      "fr": ""
+    },
+    "image": "/artworks/painting-122.jpg",
+    "source_url": "https://www.annina-laely-paintings.com/artwork/al_101",
+    "number": "101",
+    "dimensions": "80 x 60 cm",
+    "year": "2012",
+    "date": "01.05.2012",
+    "medium": {
+      "de": "Acryl auf Leinwand",
+      "en": "Acrylic on canvas",
+      "fr": "Acrylique sur toile"
+    },
+    "price": null,
+    "sold": false,
+    "published": true,
+    "sort_order": 56
+  },
+  {
+    "id": "7fe0b05a-8b17-4688-a111-7bfc250a1079",
+    "slug": "al_100",
+    "kind": "painting",
+    "title": {
+      "de": "AL_100",
+      "en": "AL_100",
+      "fr": "AL_100"
+    },
+    "description": {
+      "de": "",
+      "en": "",
+      "fr": ""
+    },
+    "image": "/artworks/painting-14.jpg",
+    "source_url": "https://www.annina-laely-paintings.com/artwork/al_100",
+    "number": "100",
+    "dimensions": "80 x 60 cm",
+    "year": "2012",
+    "date": "01.05.2012",
+    "medium": {
+      "de": "Acryl auf Leinwand",
+      "en": "Acrylic on canvas",
+      "fr": "Acrylique sur toile"
+    },
+    "price": 1100,
+    "sold": false,
+    "published": true,
+    "sort_order": 57
+  },
+  {
+    "id": "3f3a4948-507d-428b-a1f4-3d8799193000",
+    "slug": "al_99",
+    "kind": "painting",
+    "title": {
+      "de": "AL_99",
+      "en": "AL_99",
+      "fr": "AL_99"
+    },
+    "description": {
+      "de": "",
+      "en": "",
+      "fr": ""
+    },
+    "image": "/artworks/painting-51.jpg",
+    "source_url": "https://www.annina-laely-paintings.com/artwork/al_99",
+    "number": "99",
+    "dimensions": "100 x 80 cm",
+    "year": "2012",
+    "date": "01.04.2012",
+    "medium": {
+      "de": "Acryl auf Leinwand",
+      "en": "Acrylic on canvas",
+      "fr": "Acrylique sur toile"
+    },
+    "price": null,
+    "sold": false,
+    "published": true,
+    "sort_order": 58
+  },
+  {
+    "id": "20db2e3a-6b70-4c4a-acfd-675f1fbfe344",
+    "slug": "palo-verde-2",
+    "kind": "painting",
+    "title": {
+      "de": "Palo Verde 2",
+      "en": "Palo Verde 2",
+      "fr": "Palo Verde 2"
+    },
+    "description": {
+      "de": "",
+      "en": "",
+      "fr": ""
+    },
+    "image": "/artworks/painting-88.jpg",
+    "source_url": "https://www.annina-laely-paintings.com/artwork/palo-verde-2",
+    "number": "98",
+    "dimensions": "80 x 60 cm",
+    "year": "2012",
+    "date": "01.04.2012",
+    "medium": {
+      "de": "Acryl auf Leinwand",
+      "en": "Acrylic on canvas",
+      "fr": "Acrylique sur toile"
+    },
+    "price": 1100,
+    "sold": false,
+    "published": true,
+    "sort_order": 59
+  },
+  {
+    "id": "0bc467aa-b734-452e-ac6a-82fb8be8fde6",
+    "slug": "saguaro",
+    "kind": "painting",
+    "title": {
+      "de": "Saguaro",
+      "en": "Saguaro",
+      "fr": "Saguaro"
+    },
+    "description": {
+      "de": "",
+      "en": "",
+      "fr": ""
+    },
+    "image": "/artworks/painting-123.jpg",
+    "source_url": "https://www.annina-laely-paintings.com/artwork/saguaro",
+    "number": "94",
+    "dimensions": "100 x 80",
+    "year": "2023",
+    "date": "14.03.2023",
+    "medium": {
+      "de": "Acryl auf Leinwand",
+      "en": "Acrylic on canvas",
+      "fr": "Acrylique sur toile"
+    },
+    "price": null,
+    "sold": false,
+    "published": true,
+    "sort_order": 60
+  },
+  {
+    "id": "d702e802-0a17-4f52-a2c5-102bbb37f574",
+    "slug": "al_93",
+    "kind": "painting",
+    "title": {
+      "de": "AL_93",
+      "en": "AL_93",
+      "fr": "AL_93"
+    },
+    "description": {
+      "de": "",
+      "en": "",
+      "fr": ""
+    },
+    "image": "/artworks/painting-15.jpg",
+    "source_url": "https://www.annina-laely-paintings.com/artwork/al_93",
+    "number": "93",
+    "dimensions": "80 x 60 cm",
+    "year": "2016",
+    "date": "01.09.2016",
+    "medium": {
+      "de": "Acryl auf Leinwand",
+      "en": "Acrylic on canvas",
+      "fr": "Acrylique sur toile"
+    },
+    "price": 1100,
+    "sold": false,
+    "published": true,
+    "sort_order": 61
+  },
+  {
+    "id": "db36de45-7a12-4403-a9ca-f8df6cda9db9",
+    "slug": "palo-verde-1",
+    "kind": "painting",
+    "title": {
+      "de": "Palo Verde 1",
+      "en": "Palo Verde 1",
+      "fr": "Palo Verde 1"
+    },
+    "description": {
+      "de": "",
+      "en": "",
+      "fr": ""
+    },
+    "image": "/artworks/painting-52.jpg",
+    "source_url": "https://www.annina-laely-paintings.com/artwork/palo-verde-1",
+    "number": "92",
+    "dimensions": "100 x 80 cm",
+    "year": "2012",
+    "date": "01.04.2012",
+    "medium": {
+      "de": "Acryl auf Leinwand",
+      "en": "Acrylic on canvas",
+      "fr": "Acrylique sur toile"
+    },
+    "price": 1500,
+    "sold": false,
+    "published": true,
+    "sort_order": 62
+  },
+  {
+    "id": "6f334a6e-6712-4ccf-a8fd-9fd90291d526",
+    "slug": "al_90",
+    "kind": "painting",
+    "title": {
+      "de": "AL_90",
+      "en": "AL_90",
+      "fr": "AL_90"
+    },
+    "description": {
+      "de": "",
+      "en": "",
+      "fr": ""
+    },
+    "image": "/artworks/painting-89.jpg",
+    "source_url": "https://www.annina-laely-paintings.com/artwork/al_90",
+    "number": "90",
+    "dimensions": "4 x 30 x 70 cm",
+    "year": "2012",
+    "date": "01.02.2012",
+    "medium": {
+      "de": "Acryl auf Leinwand",
+      "en": "Acrylic on canvas",
+      "fr": "Acrylique sur toile"
+    },
+    "price": 3000,
+    "sold": false,
+    "published": true,
+    "sort_order": 63
+  },
+  {
+    "id": "3a804076-8763-4af6-a7be-06416c281cd0",
+    "slug": "al_89",
+    "kind": "painting",
+    "title": {
+      "de": "AL_89",
+      "en": "AL_89",
+      "fr": "AL_89"
+    },
+    "description": {
+      "de": "",
+      "en": "",
+      "fr": ""
+    },
+    "image": "/artworks/painting-124.jpg",
+    "source_url": "https://www.annina-laely-paintings.com/artwork/al_89",
+    "number": "89",
+    "dimensions": "100 x 80 cm",
+    "year": "2012",
+    "date": "01.02.2012",
+    "medium": {
+      "de": "Acryl auf Leinwand",
+      "en": "Acrylic on canvas",
+      "fr": "Acrylique sur toile"
+    },
+    "price": 1500,
+    "sold": false,
+    "published": true,
+    "sort_order": 64
+  },
+  {
+    "id": "36dc3355-2f5a-4850-a187-e863a6de0e9c",
+    "slug": "al_88_f",
+    "kind": "painting",
+    "title": {
+      "de": "AL_88_F",
+      "en": "AL_88_F",
+      "fr": "AL_88_F"
+    },
+    "description": {
+      "de": "",
+      "en": "",
+      "fr": ""
+    },
+    "image": "/artworks/painting-16.jpg",
+    "source_url": "https://www.annina-laely-paintings.com/artwork/al_88_f",
+    "number": "88",
+    "dimensions": "30 x 70 cm",
+    "year": "2012",
+    "date": "01.02.2012",
+    "medium": {
+      "de": "Acryl auf Leinwand",
+      "en": "Acrylic on canvas",
+      "fr": "Acrylique sur toile"
+    },
+    "price": null,
+    "sold": false,
+    "published": true,
+    "sort_order": 65
+  },
+  {
+    "id": "1fefef82-06ea-4a8c-ae2f-6f45e2dad382",
+    "slug": "al_88_b",
+    "kind": "painting",
+    "title": {
+      "de": "AL_88_B",
+      "en": "AL_88_B",
+      "fr": "AL_88_B"
+    },
+    "description": {
+      "de": "",
+      "en": "",
+      "fr": ""
+    },
+    "image": "/artworks/painting-17.jpg",
+    "source_url": "https://www.annina-laely-paintings.com/artwork/al_88_b",
+    "number": "88",
+    "dimensions": "30 x 70 cm",
+    "year": "2012",
+    "date": "01.02.2012",
+    "medium": {
+      "de": "Acryl auf Leinwand",
+      "en": "Acrylic on canvas",
+      "fr": "Acrylique sur toile"
+    },
+    "price": null,
+    "sold": false,
+    "published": true,
+    "sort_order": 66
+  },
+  {
+    "id": "3eff6c18-c384-42a5-a45d-0c071256a1ba",
+    "slug": "al_88_e",
+    "kind": "painting",
+    "title": {
+      "de": "AL_88_E",
+      "en": "AL_88_E",
+      "fr": "AL_88_E"
+    },
+    "description": {
+      "de": "",
+      "en": "",
+      "fr": ""
+    },
+    "image": "/artworks/painting-53.jpg",
+    "source_url": "https://www.annina-laely-paintings.com/artwork/al_88_e",
+    "number": "88",
+    "dimensions": "30 x 70 cm",
+    "year": "2012",
+    "date": "01.02.2012",
+    "medium": {
+      "de": "Acryl auf Leinwand",
+      "en": "Acrylic on canvas",
+      "fr": "Acrylique sur toile"
+    },
+    "price": null,
+    "sold": false,
+    "published": true,
+    "sort_order": 67
+  },
+  {
+    "id": "84895c7e-269c-44ac-abc5-45467d591e32",
+    "slug": "al_88_a",
+    "kind": "painting",
+    "title": {
+      "de": "AL_88_A",
+      "en": "AL_88_A",
+      "fr": "AL_88_A"
+    },
+    "description": {
+      "de": "",
+      "en": "",
+      "fr": ""
+    },
+    "image": "/artworks/painting-54.jpg",
+    "source_url": "https://www.annina-laely-paintings.com/artwork/al_88_a",
+    "number": "88",
+    "dimensions": "30 x 70 cm",
+    "year": "2012",
+    "date": "01.02.2012",
+    "medium": {
+      "de": "Acryl auf Leinwand",
+      "en": "Acrylic on canvas",
+      "fr": "Acrylique sur toile"
+    },
+    "price": null,
+    "sold": false,
+    "published": true,
+    "sort_order": 68
+  },
+  {
+    "id": "787fff95-ffc4-4840-aeae-59035aac6217",
+    "slug": "al_88_d",
+    "kind": "painting",
+    "title": {
+      "de": "AL_88_D",
+      "en": "AL_88_D",
+      "fr": "AL_88_D"
+    },
+    "description": {
+      "de": "",
+      "en": "",
+      "fr": ""
+    },
+    "image": "/artworks/painting-90.jpg",
+    "source_url": "https://www.annina-laely-paintings.com/artwork/al_88_d",
+    "number": "88",
+    "dimensions": "30 x 70 cm",
+    "year": "2012",
+    "date": "01.02.2012",
+    "medium": {
+      "de": "Acryl auf Leinwand",
+      "en": "Acrylic on canvas",
+      "fr": "Acrylique sur toile"
+    },
+    "price": null,
+    "sold": false,
+    "published": true,
+    "sort_order": 69
+  },
+  {
+    "id": "956a19e5-b11f-4dcb-a1dd-56e3eb659428",
+    "slug": "al_88_c",
+    "kind": "painting",
+    "title": {
+      "de": "AL_88_C",
+      "en": "AL_88_C",
+      "fr": "AL_88_C"
+    },
+    "description": {
+      "de": "",
+      "en": "",
+      "fr": ""
+    },
+    "image": "/artworks/painting-125.jpg",
+    "source_url": "https://www.annina-laely-paintings.com/artwork/al_88_c",
+    "number": "88",
+    "dimensions": "30 x 70 cm",
+    "year": "2012",
+    "date": "01.02.2012",
+    "medium": {
+      "de": "Acryl auf Leinwand",
+      "en": "Acrylic on canvas",
+      "fr": "Acrylique sur toile"
+    },
+    "price": null,
+    "sold": false,
+    "published": true,
+    "sort_order": 70
+  },
+  {
+    "id": "01edbe95-6669-4aee-a014-ef2a2d07241b",
+    "slug": "nico-1",
+    "kind": "painting",
+    "title": {
+      "de": "Nico 1",
+      "en": "Nico 1",
+      "fr": "Nico 1"
+    },
+    "description": {
+      "de": "",
+      "en": "",
+      "fr": ""
+    },
+    "image": "/artworks/painting-91.jpg",
+    "source_url": "https://www.annina-laely-paintings.com/artwork/nico-1",
+    "number": "87",
+    "dimensions": "105 x 75 cm",
+    "year": "2023",
+    "date": "21.02.2023",
+    "medium": {
+      "de": "Acryl auf Leinwand",
+      "en": "Acrylic on canvas",
+      "fr": "Acrylique sur toile"
+    },
+    "price": null,
+    "sold": false,
+    "published": true,
+    "sort_order": 71
+  },
+  {
+    "id": "801a8416-1f6a-448b-a552-9def11488399",
+    "slug": "nico-2",
+    "kind": "painting",
+    "title": {
+      "de": "Nico 2",
+      "en": "Nico 2",
+      "fr": "Nico 2"
+    },
+    "description": {
+      "de": "",
+      "en": "",
+      "fr": ""
+    },
+    "image": "/artworks/painting-126.jpg",
+    "source_url": "https://www.annina-laely-paintings.com/artwork/nico-2",
+    "number": "86",
+    "dimensions": "100 x 60 cm",
+    "year": "2012",
+    "date": "01.02.2012",
+    "medium": {
+      "de": "Acryl auf Leinwand",
+      "en": "Acrylic on canvas",
+      "fr": "Acrylique sur toile"
+    },
+    "price": null,
+    "sold": false,
+    "published": true,
+    "sort_order": 72
+  },
+  {
+    "id": "33253dbf-2b98-4d89-ac90-9ff633d8cbf2",
+    "slug": "al_85",
+    "kind": "painting",
+    "title": {
+      "de": "AL_85",
+      "en": "AL_85",
+      "fr": "AL_85"
+    },
+    "description": {
+      "de": "",
+      "en": "",
+      "fr": ""
+    },
+    "image": "/artworks/painting-18.jpg",
+    "source_url": "https://www.annina-laely-paintings.com/artwork/al_85",
+    "number": "85",
+    "dimensions": "50 x 40 cm",
+    "year": "2012",
+    "date": "01.02.2012",
+    "medium": {
+      "de": "Acryl auf Leinwand",
+      "en": "Acrylic on canvas",
+      "fr": "Acrylique sur toile"
+    },
+    "price": 950,
+    "sold": false,
+    "published": true,
+    "sort_order": 73
+  },
+  {
+    "id": "4216ebcd-100c-4553-a011-1718b157fc9c",
+    "slug": "al_84",
+    "kind": "painting",
+    "title": {
+      "de": "AL_84",
+      "en": "AL_84",
+      "fr": "AL_84"
+    },
+    "description": {
+      "de": "",
+      "en": "",
+      "fr": ""
+    },
+    "image": "/artworks/painting-55.jpg",
+    "source_url": "https://www.annina-laely-paintings.com/artwork/al_84",
+    "number": "84",
+    "dimensions": "50 x 40 cm",
+    "year": "2012",
+    "date": "01.02.2012",
+    "medium": {
+      "de": "Acryl auf Leinwand",
+      "en": "Acrylic on canvas",
+      "fr": "Acrylique sur toile"
+    },
+    "price": 950,
+    "sold": false,
+    "published": true,
+    "sort_order": 74
+  },
+  {
+    "id": "b90763e9-41b6-4745-a22c-1768f61f35ff",
+    "slug": "al_83",
+    "kind": "painting",
+    "title": {
+      "de": "AL_83",
+      "en": "AL_83",
+      "fr": "AL_83"
+    },
+    "description": {
+      "de": "",
+      "en": "",
+      "fr": ""
+    },
+    "image": "/artworks/painting-92.jpg",
+    "source_url": "https://www.annina-laely-paintings.com/artwork/al_83",
+    "number": "83",
+    "dimensions": "70 x 30 cm",
+    "year": "2012",
+    "date": "01.02.2012",
+    "medium": {
+      "de": "Acryl auf Leinwand",
+      "en": "Acrylic on canvas",
+      "fr": "Acrylique sur toile"
+    },
+    "price": 750,
+    "sold": false,
+    "published": true,
+    "sort_order": 75
+  },
+  {
+    "id": "ae55350f-d46a-4a16-aeb4-69d56bf4800d",
+    "slug": "al_82",
+    "kind": "painting",
+    "title": {
+      "de": "AL_82",
+      "en": "AL_82",
+      "fr": "AL_82"
+    },
+    "description": {
+      "de": "",
+      "en": "",
+      "fr": ""
+    },
+    "image": "/artworks/painting-127.jpg",
+    "source_url": "https://www.annina-laely-paintings.com/artwork/al_82",
+    "number": "82",
+    "dimensions": "40 x 50 cm",
+    "year": "2012",
+    "date": "01.02.2012",
+    "medium": {
+      "de": "Acryl auf Leinwand",
+      "en": "Acrylic on canvas",
+      "fr": "Acrylique sur toile"
+    },
+    "price": 950,
+    "sold": false,
+    "published": true,
+    "sort_order": 76
+  },
+  {
+    "id": "94e566b0-1baf-43ad-a013-c33fd59ce2cc",
+    "slug": "al_81",
+    "kind": "painting",
+    "title": {
+      "de": "AL_81",
+      "en": "AL_81",
+      "fr": "AL_81"
+    },
+    "description": {
+      "de": "",
+      "en": "",
+      "fr": ""
+    },
+    "image": "/artworks/painting-19.jpg",
+    "source_url": "https://www.annina-laely-paintings.com/artwork/al_81",
+    "number": "81",
+    "dimensions": "60 x 30 cm",
+    "year": "2012",
+    "date": "01.02.2012",
+    "medium": {
+      "de": "Acryl auf Leinwand",
+      "en": "Acrylic on canvas",
+      "fr": "Acrylique sur toile"
+    },
+    "price": null,
+    "sold": false,
+    "published": true,
+    "sort_order": 77
+  },
+  {
+    "id": "62a37b91-93d9-4bc8-a69b-1f8f5f4c67e1",
+    "slug": "al_80",
+    "kind": "painting",
+    "title": {
+      "de": "AL_80",
+      "en": "AL_80",
+      "fr": "AL_80"
+    },
+    "description": {
+      "de": "",
+      "en": "",
+      "fr": ""
+    },
+    "image": "/artworks/painting-56.jpg",
+    "source_url": "https://www.annina-laely-paintings.com/artwork/al_80",
+    "number": "80",
+    "dimensions": "100 x 80 cm",
+    "year": "2011",
+    "date": "01.11.2011",
+    "medium": {
+      "de": "Acryl auf Leinwand",
+      "en": "Acrylic on canvas",
+      "fr": "Acrylique sur toile"
+    },
+    "price": null,
+    "sold": false,
+    "published": true,
+    "sort_order": 78
+  },
+  {
+    "id": "fb25afdf-ca98-4cfe-a24e-3bb53339ec88",
+    "slug": "al_79",
+    "kind": "painting",
+    "title": {
+      "de": "AL_79",
+      "en": "AL_79",
+      "fr": "AL_79"
+    },
+    "description": {
+      "de": "",
+      "en": "",
+      "fr": ""
+    },
+    "image": "/artworks/painting-93.jpg",
+    "source_url": "https://www.annina-laely-paintings.com/artwork/al_79",
+    "number": "79",
+    "dimensions": "80 x 60 cm",
+    "year": "2011",
+    "date": "01.11.2011",
+    "medium": {
+      "de": "Acryl auf Leinwand",
+      "en": "Acrylic on canvas",
+      "fr": "Acrylique sur toile"
+    },
+    "price": null,
+    "sold": false,
+    "published": true,
+    "sort_order": 79
+  },
+  {
+    "id": "b74d1b98-67f4-4cb7-a2f5-23777ccab332",
+    "slug": "goldener-herbst",
+    "kind": "painting",
+    "title": {
+      "de": "goldener Herbst",
+      "en": "goldener Herbst",
+      "fr": "goldener Herbst"
+    },
+    "description": {
+      "de": "",
+      "en": "",
+      "fr": ""
+    },
+    "image": "/artworks/painting-128.jpg",
+    "source_url": "https://www.annina-laely-paintings.com/artwork/goldener-herbst",
+    "number": "78",
+    "dimensions": "80 x 60 cm",
+    "year": "2023",
+    "date": "21.02.2023",
+    "medium": {
+      "de": "Acryl auf Leinwand",
+      "en": "Acrylic on canvas",
+      "fr": "Acrylique sur toile"
+    },
+    "price": null,
+    "sold": false,
+    "published": true,
+    "sort_order": 80
+  },
+  {
+    "id": "f41626c2-a46b-4f15-adfc-6194d7fbac97",
+    "slug": "al_77",
+    "kind": "painting",
+    "title": {
+      "de": "AL_77",
+      "en": "AL_77",
+      "fr": "AL_77"
+    },
+    "description": {
+      "de": "",
+      "en": "",
+      "fr": ""
+    },
+    "image": "/artworks/painting-20.jpg",
+    "source_url": "https://www.annina-laely-paintings.com/artwork/al_77",
+    "number": "77",
+    "dimensions": "80 x 60 cm",
+    "year": "2011",
+    "date": "01.11.2011",
+    "medium": {
+      "de": "Acryl auf Leinwand",
+      "en": "Acrylic on canvas",
+      "fr": "Acrylique sur toile"
+    },
+    "price": null,
+    "sold": false,
+    "published": true,
+    "sort_order": 81
+  },
+  {
+    "id": "68ddd0f1-156c-4621-ad6f-3840955ce6a0",
+    "slug": "al_76",
+    "kind": "painting",
+    "title": {
+      "de": "AL_76",
+      "en": "AL_76",
+      "fr": "AL_76"
+    },
+    "description": {
+      "de": "",
+      "en": "",
+      "fr": ""
+    },
+    "image": "/artworks/painting-57.jpg",
+    "source_url": "https://www.annina-laely-paintings.com/artwork/al_76",
+    "number": "76",
+    "dimensions": "80 x 60 cm",
+    "year": "2011",
+    "date": "01.11.2011",
+    "medium": {
+      "de": "Acryl auf Leinwand",
+      "en": "Acrylic on canvas",
+      "fr": "Acrylique sur toile"
+    },
+    "price": 1100,
+    "sold": false,
+    "published": true,
+    "sort_order": 82
+  },
+  {
+    "id": "8778c1da-8a2d-47f9-a920-67df257c324e",
+    "slug": "al_74",
+    "kind": "painting",
+    "title": {
+      "de": "AL_74",
+      "en": "AL_74",
+      "fr": "AL_74"
+    },
+    "description": {
+      "de": "",
+      "en": "",
+      "fr": ""
+    },
+    "image": "/artworks/painting-129.jpg",
+    "source_url": "https://www.annina-laely-paintings.com/artwork/al_74",
+    "number": "74",
+    "dimensions": "60 x 80 cm",
+    "year": "2011",
+    "date": "01.10.2011",
+    "medium": {
+      "de": "Acryl auf Leinwand",
+      "en": "Acrylic on canvas",
+      "fr": "Acrylique sur toile"
+    },
+    "price": null,
+    "sold": false,
+    "published": true,
+    "sort_order": 83
+  },
+  {
+    "id": "13819136-aabc-4320-a1a3-d930f1f01a6c",
+    "slug": "dschungel",
+    "kind": "painting",
+    "title": {
+      "de": "Dschungel",
+      "en": "Jungle",
+      "fr": "Jungle"
+    },
+    "description": {
+      "de": "",
+      "en": "",
+      "fr": ""
+    },
+    "image": "/artworks/painting-21.jpg",
+    "source_url": "https://www.annina-laely-paintings.com/artwork/dschungel",
+    "number": "73",
+    "dimensions": "80 x 60 cm",
+    "year": "2011",
+    "date": "01.10.2011",
+    "medium": {
+      "de": "Acryl auf Leinwand",
+      "en": "Acrylic on canvas",
+      "fr": "Acrylique sur toile"
+    },
+    "price": 1100,
+    "sold": false,
+    "published": true,
+    "sort_order": 84
+  },
+  {
+    "id": "06adbcc7-4641-473e-afd5-d3e9a5852c08",
+    "slug": "al_72",
+    "kind": "painting",
+    "title": {
+      "de": "AL_72",
+      "en": "AL_72",
+      "fr": "AL_72"
+    },
+    "description": {
+      "de": "",
+      "en": "",
+      "fr": ""
+    },
+    "image": "/artworks/painting-58.jpg",
+    "source_url": "https://www.annina-laely-paintings.com/artwork/al_72",
+    "number": "72",
+    "dimensions": "40 x 80 cm",
+    "year": "2011",
+    "date": "01.10.2011",
+    "medium": {
+      "de": "Acryl auf Leinwand",
+      "en": "Acrylic on canvas",
+      "fr": "Acrylique sur toile"
+    },
+    "price": null,
+    "sold": false,
+    "published": true,
+    "sort_order": 85
+  },
+  {
+    "id": "4c3a7dbb-008b-4a4a-a437-913b3b7e478e",
+    "slug": "al_71",
+    "kind": "painting",
+    "title": {
+      "de": "AL_71",
+      "en": "AL_71",
+      "fr": "AL_71"
+    },
+    "description": {
+      "de": "",
+      "en": "",
+      "fr": ""
+    },
+    "image": "/artworks/painting-95.jpg",
+    "source_url": "https://www.annina-laely-paintings.com/artwork/al_71",
+    "number": "71",
+    "dimensions": "80 x 60 cm",
+    "year": "2024",
+    "date": "01.02.2024",
+    "medium": {
+      "de": "Acryl auf Leinwand",
+      "en": "Acrylic on canvas",
+      "fr": "Acrylique sur toile"
+    },
+    "price": null,
+    "sold": false,
+    "published": true,
+    "sort_order": 86
+  },
+  {
+    "id": "a5b3867b-2492-4914-ac98-f32668bc7a06",
+    "slug": "al_70",
+    "kind": "painting",
+    "title": {
+      "de": "AL_70",
+      "en": "AL_70",
+      "fr": "AL_70"
+    },
+    "description": {
+      "de": "",
+      "en": "",
+      "fr": ""
+    },
+    "image": "/artworks/painting-130.jpg",
+    "source_url": "https://www.annina-laely-paintings.com/artwork/al_70",
+    "number": "70",
+    "dimensions": "80 x 60 cm",
+    "year": "2011",
+    "date": "01.09.2011",
+    "medium": {
+      "de": "Acryl auf Leinwand",
+      "en": "Acrylic on canvas",
+      "fr": "Acrylique sur toile"
+    },
+    "price": 1100,
+    "sold": false,
+    "published": true,
+    "sort_order": 87
+  },
+  {
+    "id": "17551824-28ce-43bd-ace8-99634ed9def6",
+    "slug": "al_69",
+    "kind": "painting",
+    "title": {
+      "de": "AL_69",
+      "en": "AL_69",
+      "fr": "AL_69"
+    },
+    "description": {
+      "de": "",
+      "en": "",
+      "fr": ""
+    },
+    "image": "/artworks/painting-22.jpg",
+    "source_url": "https://www.annina-laely-paintings.com/artwork/al_69",
+    "number": "69",
+    "dimensions": "80 x 60 cm",
+    "year": "2011",
+    "date": "01.09.2011",
+    "medium": {
+      "de": "Acryl auf Leinwand",
+      "en": "Acrylic on canvas",
+      "fr": "Acrylique sur toile"
+    },
+    "price": 1100,
+    "sold": false,
+    "published": true,
+    "sort_order": 88
+  },
+  {
+    "id": "4c94017e-edd6-4cf7-a985-74e0f3d1be7d",
+    "slug": "al_68",
+    "kind": "painting",
+    "title": {
+      "de": "AL_68",
+      "en": "AL_68",
+      "fr": "AL_68"
+    },
+    "description": {
+      "de": "",
+      "en": "",
+      "fr": ""
+    },
+    "image": "/artworks/painting-59.jpg",
+    "source_url": "https://www.annina-laely-paintings.com/artwork/al_68",
+    "number": "68",
+    "dimensions": "80 x 60 cm",
+    "year": "2024",
+    "date": "01.01.2024",
+    "medium": {
+      "de": "Acryl auf Leinwand",
+      "en": "Acrylic on canvas",
+      "fr": "Acrylique sur toile"
+    },
+    "price": 1100,
+    "sold": false,
+    "published": true,
+    "sort_order": 89
+  },
+  {
+    "id": "b627632d-b381-4ced-a812-5c97010de895",
+    "slug": "fabio",
+    "kind": "painting",
+    "title": {
+      "de": "Fabio",
+      "en": "Fabio",
+      "fr": "Fabio"
+    },
+    "description": {
+      "de": "",
+      "en": "",
+      "fr": ""
+    },
+    "image": "/artworks/painting-96.jpg",
+    "source_url": "https://www.annina-laely-paintings.com/artwork/fabio",
+    "number": "67",
+    "dimensions": "50 x 60 cm",
+    "year": "2015",
+    "date": "01.12.2015",
+    "medium": {
+      "de": "Acryl auf Leinwand",
+      "en": "Acrylic on canvas",
+      "fr": "Acrylique sur toile"
+    },
+    "price": 1050,
+    "sold": false,
+    "published": true,
+    "sort_order": 90
+  },
+  {
+    "id": "de1eaa64-eb24-49dc-a7e8-65fc9eb81731",
+    "slug": "al_66",
+    "kind": "painting",
+    "title": {
+      "de": "AL_66",
+      "en": "AL_66",
+      "fr": "AL_66"
+    },
+    "description": {
+      "de": "",
+      "en": "",
+      "fr": ""
+    },
+    "image": "/artworks/painting-131.jpg",
+    "source_url": "https://www.annina-laely-paintings.com/artwork/al_66",
+    "number": "66",
+    "dimensions": "60 x 70 cm",
+    "year": "2013",
+    "date": "01.08.2013",
+    "medium": {
+      "de": "Acryl auf Leinwand",
+      "en": "Acrylic on canvas",
+      "fr": "Acrylique sur toile"
+    },
+    "price": 1100,
+    "sold": false,
+    "published": true,
+    "sort_order": 91
+  },
+  {
+    "id": "575ee342-e4a3-410a-a62d-1709f8a1c234",
+    "slug": "al_65",
+    "kind": "painting",
+    "title": {
+      "de": "AL_65",
+      "en": "AL_65",
+      "fr": "AL_65"
+    },
+    "description": {
+      "de": "",
+      "en": "",
+      "fr": ""
+    },
+    "image": "/artworks/painting-23.jpg",
+    "source_url": "https://www.annina-laely-paintings.com/artwork/al_65",
+    "number": "65",
+    "dimensions": "60 x 80 cm",
+    "year": "2014",
+    "date": "01.03.2014",
+    "medium": {
+      "de": "Acryl auf Leinwand",
+      "en": "Acrylic on canvas",
+      "fr": "Acrylique sur toile"
+    },
+    "price": 1100,
+    "sold": false,
+    "published": true,
+    "sort_order": 92
+  },
+  {
+    "id": "699c378c-4926-4bb6-afe6-d149ef70dc33",
+    "slug": "al_64",
+    "kind": "painting",
+    "title": {
+      "de": "AL_64",
+      "en": "AL_64",
+      "fr": "AL_64"
+    },
+    "description": {
+      "de": "",
+      "en": "",
+      "fr": ""
+    },
+    "image": "/artworks/painting-60.jpg",
+    "source_url": "https://www.annina-laely-paintings.com/artwork/al_64",
+    "number": "64",
+    "dimensions": "60 x 50 cm",
+    "year": "2023",
+    "date": "21.02.2023",
+    "medium": {
+      "de": "Acryl auf Leinwand",
+      "en": "Acrylic on canvas",
+      "fr": "Acrylique sur toile"
+    },
+    "price": null,
+    "sold": false,
+    "published": true,
+    "sort_order": 93
+  },
+  {
+    "id": "80483422-2589-44ea-ac30-a936cc3cf87b",
+    "slug": "al_63",
+    "kind": "painting",
+    "title": {
+      "de": "AL_63",
+      "en": "AL_63",
+      "fr": "AL_63"
+    },
+    "description": {
+      "de": "",
+      "en": "",
+      "fr": ""
+    },
+    "image": "/artworks/painting-97.jpg",
+    "source_url": "https://www.annina-laely-paintings.com/artwork/al_63",
+    "number": "63",
+    "dimensions": "70 x 50 cm",
+    "year": "2011",
+    "date": "01.08.2011",
+    "medium": {
+      "de": "Acryl auf Leinwand",
+      "en": "Acrylic on canvas",
+      "fr": "Acrylique sur toile"
+    },
+    "price": 1050,
+    "sold": false,
+    "published": true,
+    "sort_order": 94
+  },
+  {
+    "id": "1cfba7ad-2152-4ba5-aaed-213e1edc7dd5",
+    "slug": "al_62",
+    "kind": "painting",
+    "title": {
+      "de": "AL_62",
+      "en": "AL_62",
+      "fr": "AL_62"
+    },
+    "description": {
+      "de": "",
+      "en": "",
+      "fr": ""
+    },
+    "image": "/artworks/painting-132.jpg",
+    "source_url": "https://www.annina-laely-paintings.com/artwork/al_62",
+    "number": "62",
+    "dimensions": "70 x 50 cm",
+    "year": "2011",
+    "date": "01.11.2011",
+    "medium": {
+      "de": "Acryl auf Leinwand",
+      "en": "Acrylic on canvas",
+      "fr": "Acrylique sur toile"
+    },
+    "price": 1050,
+    "sold": false,
+    "published": true,
+    "sort_order": 95
+  },
+  {
+    "id": "15e20c70-9a50-4b49-a658-9824db672311",
+    "slug": "ireland-2",
+    "kind": "painting",
+    "title": {
+      "de": "Ireland 2",
+      "en": "Ireland 2",
+      "fr": "Ireland 2"
+    },
+    "description": {
+      "de": "",
+      "en": "",
+      "fr": ""
+    },
+    "image": "/artworks/painting-24.jpg",
+    "source_url": "https://www.annina-laely-paintings.com/artwork/ireland-2",
+    "number": "61",
+    "dimensions": "70 x 50 cm",
+    "year": "2011",
+    "date": "01.08.2011",
+    "medium": {
+      "de": "Acryl auf Leinwand",
+      "en": "Acrylic on canvas",
+      "fr": "Acrylique sur toile"
+    },
+    "price": 1050,
+    "sold": false,
+    "published": true,
+    "sort_order": 96
+  },
+  {
+    "id": "1e4b34ba-c247-45ae-a80a-1bf87efad106",
+    "slug": "al_60",
+    "kind": "painting",
+    "title": {
+      "de": "AL_60",
+      "en": "AL_60",
+      "fr": "AL_60"
+    },
+    "description": {
+      "de": "",
+      "en": "",
+      "fr": ""
+    },
+    "image": "/artworks/painting-61.jpg",
+    "source_url": "https://www.annina-laely-paintings.com/artwork/al_60",
+    "number": "60",
+    "dimensions": "30 x 30 cm",
+    "year": "2011",
+    "date": "01.07.2011",
+    "medium": {
+      "de": "Acryl auf Leinwand",
+      "en": "Acrylic on canvas",
+      "fr": "Acrylique sur toile"
+    },
+    "price": 650,
+    "sold": false,
+    "published": true,
+    "sort_order": 97
+  },
+  {
+    "id": "c29ffbc1-cd51-4184-ab3d-3983424cc8d9",
+    "slug": "al_59",
+    "kind": "painting",
+    "title": {
+      "de": "AL_59",
+      "en": "AL_59",
+      "fr": "AL_59"
+    },
+    "description": {
+      "de": "",
+      "en": "",
+      "fr": ""
+    },
+    "image": "/artworks/painting-98.jpg",
+    "source_url": "https://www.annina-laely-paintings.com/artwork/al_59",
+    "number": "59",
+    "dimensions": "30 x 30 cm",
+    "year": "2011",
+    "date": "01.07.2011",
+    "medium": {
+      "de": "Acryl auf Leinwand",
+      "en": "Acrylic on canvas",
+      "fr": "Acrylique sur toile"
+    },
+    "price": 650,
+    "sold": false,
+    "published": true,
+    "sort_order": 98
+  },
+  {
+    "id": "2925a1c5-d0ca-4384-ad65-6dd144d365d7",
+    "slug": "mariage",
+    "kind": "painting",
+    "title": {
+      "de": "mariage",
+      "en": "mariage",
+      "fr": "mariage"
+    },
+    "description": {
+      "de": "",
+      "en": "",
+      "fr": ""
+    },
+    "image": "/artworks/painting-133.jpg",
+    "source_url": "https://www.annina-laely-paintings.com/artwork/mariage",
+    "number": "58",
+    "dimensions": "30 x 30 cm",
+    "year": "2014",
+    "date": "01.11.2014",
+    "medium": {
+      "de": "Acryl auf Leinwand",
+      "en": "Acrylic on canvas",
+      "fr": "Acrylique sur toile"
+    },
+    "price": 650,
+    "sold": false,
+    "published": true,
+    "sort_order": 99
+  },
+  {
+    "id": "47a65d16-be8c-4dd7-a9aa-79d8a60a5cd1",
+    "slug": "al_57",
+    "kind": "painting",
+    "title": {
+      "de": "AL_57",
+      "en": "AL_57",
+      "fr": "AL_57"
+    },
+    "description": {
+      "de": "",
+      "en": "",
+      "fr": ""
+    },
+    "image": "/artworks/painting-25.jpg",
+    "source_url": "https://www.annina-laely-paintings.com/artwork/al_57",
+    "number": "57",
+    "dimensions": "40 x 60 cm",
+    "year": "2011",
+    "date": "01.05.2011",
+    "medium": {
+      "de": "Acryl auf Leinwand",
+      "en": "Acrylic on canvas",
+      "fr": "Acrylique sur toile"
+    },
+    "price": 950,
+    "sold": false,
+    "published": true,
+    "sort_order": 100
+  },
+  {
+    "id": "7acc3a4f-b8d1-4f03-a023-e172642dfd2a",
+    "slug": "ireland",
+    "kind": "painting",
+    "title": {
+      "de": "Ireland",
+      "en": "Ireland",
+      "fr": "Ireland"
+    },
+    "description": {
+      "de": "",
+      "en": "",
+      "fr": ""
+    },
+    "image": "/artworks/painting-62.jpg",
+    "source_url": "https://www.annina-laely-paintings.com/artwork/ireland",
+    "number": "56",
+    "dimensions": "70 x 50 cm",
+    "year": "2011",
+    "date": "01.06.2011",
+    "medium": {
+      "de": "Acryl auf Leinwand",
+      "en": "Acrylic on canvas",
+      "fr": "Acrylique sur toile"
+    },
+    "price": 1050,
+    "sold": false,
+    "published": true,
+    "sort_order": 101
+  },
+  {
+    "id": "d5142823-98f9-417e-acd3-6d775de1806b",
+    "slug": "al_55",
+    "kind": "painting",
+    "title": {
+      "de": "AL_55",
+      "en": "AL_55",
+      "fr": "AL_55"
+    },
+    "description": {
+      "de": "",
+      "en": "",
+      "fr": ""
+    },
+    "image": "/artworks/painting-99.jpg",
+    "source_url": "https://www.annina-laely-paintings.com/artwork/al_55",
+    "number": "55",
+    "dimensions": "60x50 cm",
+    "year": "2016",
+    "date": "01.09.2016",
+    "medium": {
+      "de": "Acryl auf Leinwand",
+      "en": "Acrylic on canvas",
+      "fr": "Acrylique sur toile"
+    },
+    "price": 1050,
+    "sold": false,
+    "published": true,
+    "sort_order": 102
+  },
+  {
+    "id": "083ce081-b4eb-42eb-af15-3376c6e0c78a",
+    "slug": "al_54",
+    "kind": "painting",
+    "title": {
+      "de": "AL_54",
+      "en": "AL_54",
+      "fr": "AL_54"
+    },
+    "description": {
+      "de": "",
+      "en": "",
+      "fr": ""
+    },
+    "image": "/artworks/painting-134.jpg",
+    "source_url": "https://www.annina-laely-paintings.com/artwork/al_54",
+    "number": "54",
+    "dimensions": "40 x 30 cm",
+    "year": "2011",
+    "date": "01.05.2011",
+    "medium": {
+      "de": "Acryl auf Leinwand",
+      "en": "Acrylic on canvas",
+      "fr": "Acrylique sur toile"
+    },
+    "price": 700,
+    "sold": false,
+    "published": true,
+    "sort_order": 103
+  },
+  {
+    "id": "073b3dd7-7189-409f-ab92-dc6bcf082bba",
+    "slug": "schneesturm",
+    "kind": "painting",
+    "title": {
+      "de": "Schneesturm",
+      "en": "Snowstorm",
+      "fr": "Tempête de neige"
+    },
+    "description": {
+      "de": "",
+      "en": "",
+      "fr": ""
+    },
+    "image": "/artworks/painting-26.jpg",
+    "source_url": "https://www.annina-laely-paintings.com/artwork/schneesturm",
+    "number": "53",
+    "dimensions": "30 x 40 cm",
+    "year": "2011",
+    "date": "01.05.2011",
+    "medium": {
+      "de": "Acryl auf Leinwand",
+      "en": "Acrylic on canvas",
+      "fr": "Acrylique sur toile"
+    },
+    "price": 700,
+    "sold": false,
+    "published": true,
+    "sort_order": 104
+  },
+  {
+    "id": "e59fbac2-5f7b-453d-a911-7da40e0358ba",
+    "slug": "al_52",
+    "kind": "painting",
+    "title": {
+      "de": "AL_52",
+      "en": "AL_52",
+      "fr": "AL_52"
+    },
+    "description": {
+      "de": "",
+      "en": "",
+      "fr": ""
+    },
+    "image": "/artworks/painting-63.jpg",
+    "source_url": "https://www.annina-laely-paintings.com/artwork/al_52",
+    "number": "52",
+    "dimensions": "60 x 50 cm",
+    "year": "2011",
+    "date": "01.05.2011",
+    "medium": {
+      "de": "Acryl auf Leinwand",
+      "en": "Acrylic on canvas",
+      "fr": "Acrylique sur toile"
+    },
+    "price": 1050,
+    "sold": false,
+    "published": true,
+    "sort_order": 105
+  },
+  {
+    "id": "a5b92cc2-a6db-4ed7-ad0d-cb777a8742e0",
+    "slug": "al_51",
+    "kind": "painting",
+    "title": {
+      "de": "AL_51",
+      "en": "AL_51",
+      "fr": "AL_51"
+    },
+    "description": {
+      "de": "",
+      "en": "",
+      "fr": ""
+    },
+    "image": "/artworks/painting-100.jpg",
+    "source_url": "https://www.annina-laely-paintings.com/artwork/al_51",
+    "number": "51",
+    "dimensions": "60 x 50 cm",
+    "year": "2011",
+    "date": "01.05.2011",
+    "medium": {
+      "de": "Acryl auf Leinwand",
+      "en": "Acrylic on canvas",
+      "fr": "Acrylique sur toile"
+    },
+    "price": 1050,
+    "sold": false,
+    "published": true,
+    "sort_order": 106
+  },
+  {
+    "id": "e72efe34-5044-40ec-a82d-993d47198b44",
+    "slug": "winter",
+    "kind": "painting",
+    "title": {
+      "de": "Winter",
+      "en": "Winter",
+      "fr": "Hiver"
+    },
+    "description": {
+      "de": "",
+      "en": "",
+      "fr": ""
+    },
+    "image": "/artworks/painting-135.jpg",
+    "source_url": "https://www.annina-laely-paintings.com/artwork/winter",
+    "number": "50",
+    "dimensions": "70 x 60 cm",
+    "year": "2011",
+    "date": "01.05.2011",
+    "medium": {
+      "de": "Acryl auf Leinwand",
+      "en": "Acrylic on canvas",
+      "fr": "Acrylique sur toile"
+    },
+    "price": 1100,
+    "sold": false,
+    "published": true,
+    "sort_order": 107
+  },
+  {
+    "id": "bd742f25-7d9d-443e-a1a9-b0d0a2382ea8",
+    "slug": "sommer",
+    "kind": "painting",
+    "title": {
+      "de": "Sommer",
+      "en": "Summer",
+      "fr": "Été"
+    },
+    "description": {
+      "de": "",
+      "en": "",
+      "fr": ""
+    },
+    "image": "/artworks/painting-27.jpg",
+    "source_url": "https://www.annina-laely-paintings.com/artwork/sommer",
+    "number": "49",
+    "dimensions": "70 x 50 cm",
+    "year": "2011",
+    "date": "01.05.2011",
+    "medium": {
+      "de": "Acryl auf Leinwand",
+      "en": "Acrylic on canvas",
+      "fr": "Acrylique sur toile"
+    },
+    "price": 1050,
+    "sold": false,
+    "published": true,
+    "sort_order": 108
+  },
+  {
+    "id": "005b44dd-7af2-4d4f-a190-805dbab51405",
+    "slug": "arizona-3",
+    "kind": "painting",
+    "title": {
+      "de": "Arizona 3",
+      "en": "Arizona 3",
+      "fr": "Arizona 3"
+    },
+    "description": {
+      "de": "",
+      "en": "",
+      "fr": ""
+    },
+    "image": "/artworks/painting-64.jpg",
+    "source_url": "https://www.annina-laely-paintings.com/artwork/arizona-3",
+    "number": "48",
+    "dimensions": "50 x 70 cm",
+    "year": "2011",
+    "date": "01.05.2011",
+    "medium": {
+      "de": "Acryl auf Leinwand",
+      "en": "Acrylic on canvas",
+      "fr": "Acrylique sur toile"
+    },
+    "price": 1050,
+    "sold": false,
+    "published": true,
+    "sort_order": 109
+  },
+  {
+    "id": "8cd2d8fa-d68c-4ca9-a80b-ebca959772f1",
+    "slug": "arizona-2",
+    "kind": "painting",
+    "title": {
+      "de": "Arizona 2",
+      "en": "Arizona 2",
+      "fr": "Arizona 2"
+    },
+    "description": {
+      "de": "",
+      "en": "",
+      "fr": ""
+    },
+    "image": "/artworks/painting-101.jpg",
+    "source_url": "https://www.annina-laely-paintings.com/artwork/arizona-2",
+    "number": "47",
+    "dimensions": "50 x 60 cm",
+    "year": "2011",
+    "date": "01.04.2011",
+    "medium": {
+      "de": "Acryl auf Leinwand",
+      "en": "Acrylic on canvas",
+      "fr": "Acrylique sur toile"
+    },
+    "price": null,
+    "sold": false,
+    "published": true,
+    "sort_order": 110
+  },
+  {
+    "id": "bee08ed3-5cb7-43e5-a7fe-51315b25693f",
+    "slug": "taos",
+    "kind": "painting",
+    "title": {
+      "de": "Taos",
+      "en": "Taos",
+      "fr": "Taos"
+    },
+    "description": {
+      "de": "",
+      "en": "",
+      "fr": ""
+    },
+    "image": "/artworks/painting-136.jpg",
+    "source_url": "https://www.annina-laely-paintings.com/artwork/taos",
+    "number": "45",
+    "dimensions": "70 x 50 cm",
+    "year": "2011",
+    "date": "01.05.2011",
+    "medium": {
+      "de": "Acryl auf Leinwand",
+      "en": "Acrylic on canvas",
+      "fr": "Acrylique sur toile"
+    },
+    "price": 1050,
+    "sold": false,
+    "published": true,
+    "sort_order": 111
+  },
+  {
+    "id": "77295e78-d3f4-4821-ad01-32efd82ef93c",
+    "slug": "antarktis-5",
+    "kind": "painting",
+    "title": {
+      "de": "Antarktis 5",
+      "en": "Antarktis 5",
+      "fr": "Antarktis 5"
+    },
+    "description": {
+      "de": "",
+      "en": "",
+      "fr": ""
+    },
+    "image": "/artworks/painting-28.jpg",
+    "source_url": "https://www.annina-laely-paintings.com/artwork/antarktis-5",
+    "number": "44",
+    "dimensions": "60 x 40 cm",
+    "year": "2023",
+    "date": "21.02.2023",
+    "medium": {
+      "de": "Acryl auf Leinwand",
+      "en": "Acrylic on canvas",
+      "fr": "Acrylique sur toile"
+    },
+    "price": null,
+    "sold": false,
+    "published": true,
+    "sort_order": 112
+  },
+  {
+    "id": "a5ed2376-a2c3-45b0-ae17-30b525685c56",
+    "slug": "antarktis-4",
+    "kind": "painting",
+    "title": {
+      "de": "Antarktis 4",
+      "en": "Antarktis 4",
+      "fr": "Antarktis 4"
+    },
+    "description": {
+      "de": "",
+      "en": "",
+      "fr": ""
+    },
+    "image": "/artworks/painting-65.jpg",
+    "source_url": "https://www.annina-laely-paintings.com/artwork/antarktis-4",
+    "number": "43",
+    "dimensions": "60 x 40 cm",
+    "year": "2011",
+    "date": "01.02.2011",
+    "medium": {
+      "de": "Acryl auf Leinwand",
+      "en": "Acrylic on canvas",
+      "fr": "Acrylique sur toile"
+    },
+    "price": null,
+    "sold": false,
+    "published": true,
+    "sort_order": 113
+  },
+  {
+    "id": "c0768a09-1d66-41f6-a5af-d6cead599c81",
+    "slug": "antarktis-1-2-3",
+    "kind": "painting",
+    "title": {
+      "de": "Antarktis 1 2 3",
+      "en": "Antarktis 1 2 3",
+      "fr": "Antarktis 1 2 3"
+    },
+    "description": {
+      "de": "",
+      "en": "",
+      "fr": ""
+    },
+    "image": "/artworks/painting-102.jpg",
+    "source_url": "https://www.annina-laely-paintings.com/artwork/antarktis-1-2-3",
+    "number": "40",
+    "dimensions": "40 x 30 cm, 30 x 40 cm, 50 x 20 cm",
+    "year": "2011",
+    "date": "01.02.2011",
+    "medium": {
+      "de": "Acryl auf Leinwand",
+      "en": "Acrylic on canvas",
+      "fr": "Acrylique sur toile"
+    },
+    "price": null,
+    "sold": false,
+    "published": true,
+    "sort_order": 114
+  },
+  {
+    "id": "329248a3-3486-45c6-a42a-b5982e73b5e1",
+    "slug": "al_37",
+    "kind": "painting",
+    "title": {
+      "de": "AL_37",
+      "en": "AL_37",
+      "fr": "AL_37"
+    },
+    "description": {
+      "de": "",
+      "en": "",
+      "fr": ""
+    },
+    "image": "/artworks/painting-137.jpg",
+    "source_url": "https://www.annina-laely-paintings.com/artwork/al_37",
+    "number": "37",
+    "dimensions": "50 x 70 cm",
+    "year": "2011",
+    "date": "01.02.2011",
+    "medium": {
+      "de": "Acryl auf Leinwand",
+      "en": "Acrylic on canvas",
+      "fr": "Acrylique sur toile"
+    },
+    "price": null,
+    "sold": false,
+    "published": true,
+    "sort_order": 115
+  },
+  {
+    "id": "e925af73-a984-4872-a4e4-9b54328c6947",
+    "slug": "al_36",
+    "kind": "painting",
+    "title": {
+      "de": "AL_36",
+      "en": "AL_36",
+      "fr": "AL_36"
+    },
+    "description": {
+      "de": "",
+      "en": "",
+      "fr": ""
+    },
+    "image": "/artworks/painting-29.jpg",
+    "source_url": "https://www.annina-laely-paintings.com/artwork/al_36",
+    "number": "36",
+    "dimensions": "60 x 40 cm",
+    "year": "2011",
+    "date": "01.02.2011",
+    "medium": {
+      "de": "Acryl auf Leinwand",
+      "en": "Acrylic on canvas",
+      "fr": "Acrylique sur toile"
+    },
+    "price": 950,
+    "sold": false,
+    "published": true,
+    "sort_order": 116
+  },
+  {
+    "id": "da7d4834-966a-4244-ae0c-02238d7f602e",
+    "slug": "al_35",
+    "kind": "painting",
+    "title": {
+      "de": "AL_35",
+      "en": "AL_35",
+      "fr": "AL_35"
+    },
+    "description": {
+      "de": "",
+      "en": "",
+      "fr": ""
+    },
+    "image": "/artworks/painting-66.jpg",
+    "source_url": "https://www.annina-laely-paintings.com/artwork/al_35",
+    "number": "35",
+    "dimensions": "40 x 30 cm",
+    "year": "2011",
+    "date": "01.02.2011",
+    "medium": {
+      "de": "Acryl auf Leinwand",
+      "en": "Acrylic on canvas",
+      "fr": "Acrylique sur toile"
+    },
+    "price": 700,
+    "sold": false,
+    "published": true,
+    "sort_order": 117
+  },
+  {
+    "id": "b1ac7a00-eef6-4e0b-aff5-cff7649ccf1e",
+    "slug": "al_34",
+    "kind": "painting",
+    "title": {
+      "de": "AL_34",
+      "en": "AL_34",
+      "fr": "AL_34"
+    },
+    "description": {
+      "de": "",
+      "en": "",
+      "fr": ""
+    },
+    "image": "/artworks/painting-103.jpg",
+    "source_url": "https://www.annina-laely-paintings.com/artwork/al_34",
+    "number": "34",
+    "dimensions": "30 x 40 cm",
+    "year": "2011",
+    "date": "01.02.2011",
+    "medium": {
+      "de": "Acryl auf Leinwand",
+      "en": "Acrylic on canvas",
+      "fr": "Acrylique sur toile"
+    },
+    "price": 700,
+    "sold": false,
+    "published": true,
+    "sort_order": 118
+  },
+  {
+    "id": "c46d5332-729f-4890-a02e-bf9ab0e15745",
+    "slug": "gittergeschichten-6",
+    "kind": "painting",
+    "title": {
+      "de": "Gittergeschichten 6",
+      "en": "Gittergeschichten 6",
+      "fr": "Gittergeschichten 6"
+    },
+    "description": {
+      "de": "",
+      "en": "",
+      "fr": ""
+    },
+    "image": "/artworks/painting-138.jpg",
+    "source_url": "https://www.annina-laely-paintings.com/artwork/gittergeschichten-6",
+    "number": "33",
+    "dimensions": "60 x 40 cm",
+    "year": "2010",
+    "date": "01.10.2010",
+    "medium": {
+      "de": "Acryl auf Leinwand",
+      "en": "Acrylic on canvas",
+      "fr": "Acrylique sur toile"
+    },
+    "price": 950,
+    "sold": false,
+    "published": true,
+    "sort_order": 119
+  },
+  {
+    "id": "e716e46e-1e3e-457b-a427-82e9554ac430",
+    "slug": "gittergeschichten-5",
+    "kind": "painting",
+    "title": {
+      "de": "Gittergeschichten 5",
+      "en": "Gittergeschichten 5",
+      "fr": "Gittergeschichten 5"
+    },
+    "description": {
+      "de": "",
+      "en": "",
+      "fr": ""
+    },
+    "image": "/artworks/painting-30.jpg",
+    "source_url": "https://www.annina-laely-paintings.com/artwork/gittergeschichten-5",
+    "number": "32",
+    "dimensions": "50 x 70 cm",
+    "year": "2011",
+    "date": "01.05.2011",
+    "medium": {
+      "de": "Acryl auf Leinwand",
+      "en": "Acrylic on canvas",
+      "fr": "Acrylique sur toile"
+    },
+    "price": 1050,
+    "sold": false,
+    "published": true,
+    "sort_order": 120
+  },
+  {
+    "id": "67a086e6-f1da-4fae-a382-8232296a250e",
+    "slug": "gittergeschichten-4",
+    "kind": "painting",
+    "title": {
+      "de": "Gittergeschichten 4",
+      "en": "Gittergeschichten 4",
+      "fr": "Gittergeschichten 4"
+    },
+    "description": {
+      "de": "",
+      "en": "",
+      "fr": ""
+    },
+    "image": "/artworks/painting-67.jpg",
+    "source_url": "https://www.annina-laely-paintings.com/artwork/gittergeschichten-4",
+    "number": "31",
+    "dimensions": "60 x 40 cm",
+    "year": "2010",
+    "date": "01.12.2010",
+    "medium": {
+      "de": "Acryl auf Leinwand",
+      "en": "Acrylic on canvas",
+      "fr": "Acrylique sur toile"
+    },
+    "price": 950,
+    "sold": false,
+    "published": true,
+    "sort_order": 121
+  },
+  {
+    "id": "3fcff5dd-ab46-4b40-a0db-9badddd7a85c",
+    "slug": "gittergeschichten-3",
+    "kind": "painting",
+    "title": {
+      "de": "Gittergeschichten 3",
+      "en": "Gittergeschichten 3",
+      "fr": "Gittergeschichten 3"
+    },
+    "description": {
+      "de": "",
+      "en": "",
+      "fr": ""
+    },
+    "image": "/artworks/painting-104.jpg",
+    "source_url": "https://www.annina-laely-paintings.com/artwork/gittergeschichten-3",
+    "number": "30",
+    "dimensions": "60 x 40 cm",
+    "year": "2010",
+    "date": "01.12.2010",
+    "medium": {
+      "de": "Acryl auf Leinwand",
+      "en": "Acrylic on canvas",
+      "fr": "Acrylique sur toile"
+    },
+    "price": 950,
+    "sold": false,
+    "published": true,
+    "sort_order": 122
+  },
+  {
+    "id": "b9044ce9-f53e-47f8-a503-1b402deacdae",
+    "slug": "gittergeschichten-2",
+    "kind": "painting",
+    "title": {
+      "de": "Gittergeschichten 2",
+      "en": "Gittergeschichten 2",
+      "fr": "Gittergeschichten 2"
+    },
+    "description": {
+      "de": "",
+      "en": "",
+      "fr": ""
+    },
+    "image": "/artworks/painting-139.jpg",
+    "source_url": "https://www.annina-laely-paintings.com/artwork/gittergeschichten-2",
+    "number": "29",
+    "dimensions": "60 x 40 cm",
+    "year": "2010",
+    "date": "01.12.2010",
+    "medium": {
+      "de": "Acryl auf Leinwand",
+      "en": "Acrylic on canvas",
+      "fr": "Acrylique sur toile"
+    },
+    "price": 950,
+    "sold": false,
+    "published": true,
+    "sort_order": 123
+  },
+  {
+    "id": "f4bea090-e664-4f2c-a84c-93cdbd6b9154",
+    "slug": "gittergeschichten-1",
+    "kind": "painting",
+    "title": {
+      "de": "Gittergeschichten 1",
+      "en": "Gittergeschichten 1",
+      "fr": "Gittergeschichten 1"
+    },
+    "description": {
+      "de": "",
+      "en": "",
+      "fr": ""
+    },
+    "image": "/artworks/painting-31.jpg",
+    "source_url": "https://www.annina-laely-paintings.com/artwork/gittergeschichten-1",
+    "number": "28",
+    "dimensions": "60 x 40 cm",
+    "year": "2012",
+    "date": "01.07.2012",
+    "medium": {
+      "de": "Acryl auf Leinwand",
+      "en": "Acrylic on canvas",
+      "fr": "Acrylique sur toile"
+    },
+    "price": 950,
+    "sold": false,
+    "published": true,
+    "sort_order": 124
+  },
+  {
+    "id": "ffd8061a-146f-4bb5-ad3f-7fff9ee78126",
+    "slug": "al_27",
+    "kind": "painting",
+    "title": {
+      "de": "AL_27",
+      "en": "AL_27",
+      "fr": "AL_27"
+    },
+    "description": {
+      "de": "",
+      "en": "",
+      "fr": ""
+    },
+    "image": "/artworks/painting-68.jpg",
+    "source_url": "https://www.annina-laely-paintings.com/artwork/al_27",
+    "number": "27",
+    "dimensions": "60 x 40 cm",
+    "year": "2016",
+    "date": "01.09.2016",
+    "medium": {
+      "de": "Acryl auf Leinwand",
+      "en": "Acrylic on canvas",
+      "fr": "Acrylique sur toile"
+    },
+    "price": 950,
+    "sold": false,
+    "published": true,
+    "sort_order": 125
+  },
+  {
+    "id": "72fce87a-a1ad-40a4-aacc-d98188b9c2c3",
+    "slug": "al_26",
+    "kind": "painting",
+    "title": {
+      "de": "AL_26",
+      "en": "AL_26",
+      "fr": "AL_26"
+    },
+    "description": {
+      "de": "",
+      "en": "",
+      "fr": ""
+    },
+    "image": "/artworks/painting-105.jpg",
+    "source_url": "https://www.annina-laely-paintings.com/artwork/al_26",
+    "number": "26",
+    "dimensions": "40 x 30 cm",
+    "year": "2010",
+    "date": "01.01.2010",
+    "medium": {
+      "de": "Acryl auf Leinwand",
+      "en": "Acrylic on canvas",
+      "fr": "Acrylique sur toile"
+    },
+    "price": 700,
+    "sold": false,
+    "published": true,
+    "sort_order": 126
+  },
+  {
+    "id": "756d8bc9-7a0b-4e10-a0c7-18f8d7221dae",
+    "slug": "al_25",
+    "kind": "painting",
+    "title": {
+      "de": "AL_25",
+      "en": "AL_25",
+      "fr": "AL_25"
+    },
+    "description": {
+      "de": "",
+      "en": "",
+      "fr": ""
+    },
+    "image": "/artworks/painting-140.jpg",
+    "source_url": "https://www.annina-laely-paintings.com/artwork/al_25",
+    "number": "25",
+    "dimensions": "40 x 30 cm",
+    "year": "2010",
+    "date": "01.01.2010",
+    "medium": {
+      "de": "Acryl auf Leinwand",
+      "en": "Acrylic on canvas",
+      "fr": "Acrylique sur toile"
+    },
+    "price": 700,
+    "sold": false,
+    "published": true,
+    "sort_order": 127
+  },
+  {
+    "id": "5d14190d-1eb3-4d8c-ab92-0bf8c8c7d5fe",
+    "slug": "al_24",
+    "kind": "painting",
+    "title": {
+      "de": "AL_24",
+      "en": "AL_24",
+      "fr": "AL_24"
+    },
+    "description": {
+      "de": "",
+      "en": "",
+      "fr": ""
+    },
+    "image": "/artworks/painting-32.jpg",
+    "source_url": "https://www.annina-laely-paintings.com/artwork/al_24",
+    "number": "24",
+    "dimensions": "30 x 40 cm",
+    "year": "2016",
+    "date": "01.09.2016",
+    "medium": {
+      "de": "Acryl auf Leinwand",
+      "en": "Acrylic on canvas",
+      "fr": "Acrylique sur toile"
+    },
+    "price": 700,
+    "sold": false,
+    "published": true,
+    "sort_order": 128
+  },
+  {
+    "id": "9a0b1eac-87bf-414a-a27e-ccdaa48c98be",
+    "slug": "al_23",
+    "kind": "painting",
+    "title": {
+      "de": "AL_23",
+      "en": "AL_23",
+      "fr": "AL_23"
+    },
+    "description": {
+      "de": "",
+      "en": "",
+      "fr": ""
+    },
+    "image": "/artworks/painting-69.jpg",
+    "source_url": "https://www.annina-laely-paintings.com/artwork/al_23",
+    "number": "23",
+    "dimensions": "30 x 40 cm",
+    "year": "2016",
+    "date": "01.09.2016",
+    "medium": {
+      "de": "Acryl auf Leinwand",
+      "en": "Acrylic on canvas",
+      "fr": "Acrylique sur toile"
+    },
+    "price": 700,
+    "sold": false,
+    "published": true,
+    "sort_order": 129
+  },
+  {
+    "id": "a0c70938-e3d5-441a-aca5-0784d421fad9",
+    "slug": "al_22",
+    "kind": "painting",
+    "title": {
+      "de": "AL_22",
+      "en": "AL_22",
+      "fr": "AL_22"
+    },
+    "description": {
+      "de": "",
+      "en": "",
+      "fr": ""
+    },
+    "image": "/artworks/painting-106.jpg",
+    "source_url": "https://www.annina-laely-paintings.com/artwork/al_22",
+    "number": "22",
+    "dimensions": "40 x 30 cm",
+    "year": "2010",
+    "date": "01.12.2010",
+    "medium": {
+      "de": "Acryl auf Leinwand",
+      "en": "Acrylic on canvas",
+      "fr": "Acrylique sur toile"
+    },
+    "price": 700,
+    "sold": false,
+    "published": true,
+    "sort_order": 130
+  },
+  {
+    "id": "98ab1c77-fa09-4f0b-a86d-7401a99782d5",
+    "slug": "al_21",
+    "kind": "painting",
+    "title": {
+      "de": "AL_21",
+      "en": "AL_21",
+      "fr": "AL_21"
+    },
+    "description": {
+      "de": "",
+      "en": "",
+      "fr": ""
+    },
+    "image": "/artworks/painting-141.jpg",
+    "source_url": "https://www.annina-laely-paintings.com/artwork/al_21",
+    "number": "21",
+    "dimensions": "40 x 30 cm",
+    "year": "2010",
+    "date": "01.12.2010",
+    "medium": {
+      "de": "Acryl auf Leinwand",
+      "en": "Acrylic on canvas",
+      "fr": "Acrylique sur toile"
+    },
+    "price": 700,
+    "sold": false,
+    "published": true,
+    "sort_order": 131
+  },
+  {
+    "id": "66d6390f-53e6-42a9-a5dc-908a59f96f70",
+    "slug": "al_20",
+    "kind": "painting",
+    "title": {
+      "de": "AL_20",
+      "en": "AL_20",
+      "fr": "AL_20"
+    },
+    "description": {
+      "de": "",
+      "en": "",
+      "fr": ""
+    },
+    "image": "/artworks/painting-33.jpg",
+    "source_url": "https://www.annina-laely-paintings.com/artwork/al_20",
+    "number": "20",
+    "dimensions": "40 x 30 cm",
+    "year": "2010",
+    "date": "01.12.2010",
+    "medium": {
+      "de": "Acryl auf Leinwand",
+      "en": "Acrylic on canvas",
+      "fr": "Acrylique sur toile"
+    },
+    "price": null,
+    "sold": false,
+    "published": true,
+    "sort_order": 132
+  },
+  {
+    "id": "2b7e131a-830c-411a-a717-15c9df72d66b",
+    "slug": "al_19",
+    "kind": "painting",
+    "title": {
+      "de": "AL_19",
+      "en": "AL_19",
+      "fr": "AL_19"
+    },
+    "description": {
+      "de": "",
+      "en": "",
+      "fr": ""
+    },
+    "image": "/artworks/painting-70.jpg",
+    "source_url": "https://www.annina-laely-paintings.com/artwork/al_19",
+    "number": "19",
+    "dimensions": "40 x 30 cm",
+    "year": "2010",
+    "date": "01.12.2010",
+    "medium": {
+      "de": "Acryl auf Leinwand",
+      "en": "Acrylic on canvas",
+      "fr": "Acrylique sur toile"
+    },
+    "price": null,
+    "sold": false,
+    "published": true,
+    "sort_order": 133
+  },
+  {
+    "id": "f6db1265-bf93-4fa9-a0bf-65cf8af2fd24",
+    "slug": "al_18",
+    "kind": "painting",
+    "title": {
+      "de": "AL_18",
+      "en": "AL_18",
+      "fr": "AL_18"
+    },
+    "description": {
+      "de": "",
+      "en": "",
+      "fr": ""
+    },
+    "image": "/artworks/painting-107.jpg",
+    "source_url": "https://www.annina-laely-paintings.com/artwork/al_18",
+    "number": "18",
+    "dimensions": "40 x 30 cm",
+    "year": "2010",
+    "date": "01.12.2010",
+    "medium": {
+      "de": "Acryl auf Leinwand",
+      "en": "Acrylic on canvas",
+      "fr": "Acrylique sur toile"
+    },
+    "price": null,
+    "sold": false,
+    "published": true,
+    "sort_order": 134
+  },
+  {
+    "id": "115e5b6e-0c2a-4a96-addc-7c7512d3074e",
+    "slug": "al_17",
+    "kind": "painting",
+    "title": {
+      "de": "AL_17",
+      "en": "AL_17",
+      "fr": "AL_17"
+    },
+    "description": {
+      "de": "",
+      "en": "",
+      "fr": ""
+    },
+    "image": "/artworks/painting-142.jpg",
+    "source_url": "https://www.annina-laely-paintings.com/artwork/al_17",
+    "number": "17",
+    "dimensions": "60 x 50 cm",
+    "year": "2023",
+    "date": "21.02.2023",
+    "medium": {
+      "de": "Acryl auf Leinwand",
+      "en": "Acrylic on canvas",
+      "fr": "Acrylique sur toile"
+    },
+    "price": null,
+    "sold": false,
+    "published": true,
+    "sort_order": 135
+  },
+  {
+    "id": "6b570866-9698-49b1-a0fb-98600e6f52a3",
+    "slug": "al_13",
+    "kind": "painting",
+    "title": {
+      "de": "AL_13",
+      "en": "AL_13",
+      "fr": "AL_13"
+    },
+    "description": {
+      "de": "",
+      "en": "",
+      "fr": ""
+    },
+    "image": "/artworks/painting-34.jpg",
+    "source_url": "https://www.annina-laely-paintings.com/artwork/al_13",
+    "number": "13",
+    "dimensions": "50 x 70 cm",
+    "year": "2016",
+    "date": "01.09.2016",
+    "medium": {
+      "de": "Acryl auf Leinwand",
+      "en": "Acrylic on canvas",
+      "fr": "Acrylique sur toile"
+    },
+    "price": 1050,
+    "sold": false,
+    "published": true,
+    "sort_order": 136
+  },
+  {
+    "id": "019d0ab4-972e-466f-a4e7-e7d3cddcba5d",
+    "slug": "al_11",
+    "kind": "painting",
+    "title": {
+      "de": "AL_11",
+      "en": "AL_11",
+      "fr": "AL_11"
+    },
+    "description": {
+      "de": "",
+      "en": "",
+      "fr": ""
+    },
+    "image": "/artworks/painting-71.jpg",
+    "source_url": "https://www.annina-laely-paintings.com/artwork/al_11",
+    "number": "11",
+    "dimensions": "60 x 80cm",
+    "year": "2012",
+    "date": "01.08.2012",
+    "medium": {
+      "de": "Acryl auf Leinwand",
+      "en": "Acrylic on canvas",
+      "fr": "Acrylique sur toile"
+    },
+    "price": 1100,
+    "sold": false,
+    "published": true,
+    "sort_order": 137
+  },
+  {
+    "id": "5ebf6fc1-413f-4358-a49e-3b929421a743",
+    "slug": "via-mala",
+    "kind": "painting",
+    "title": {
+      "de": "Via Mala",
+      "en": "Via Mala",
+      "fr": "Via Mala"
+    },
+    "description": {
+      "de": "",
+      "en": "",
+      "fr": ""
+    },
+    "image": "/artworks/painting-108.jpg",
+    "source_url": "https://www.annina-laely-paintings.com/artwork/via-mala",
+    "number": "10",
+    "dimensions": "80 x 60 cm",
+    "year": "2013",
+    "date": "01.08.2013",
+    "medium": {
+      "de": "Acryl auf Leinwand",
+      "en": "Acrylic on canvas",
+      "fr": "Acrylique sur toile"
+    },
+    "price": 1100,
+    "sold": false,
+    "published": true,
+    "sort_order": 138
+  },
+  {
+    "id": "00951818-ed15-4747-a226-4c0393fe9963",
+    "slug": "al_8",
+    "kind": "painting",
+    "title": {
+      "de": "AL_8",
+      "en": "AL_8",
+      "fr": "AL_8"
+    },
+    "description": {
+      "de": "",
+      "en": "",
+      "fr": ""
+    },
+    "image": "/artworks/painting-143.jpg",
+    "source_url": "https://www.annina-laely-paintings.com/artwork/al_8",
+    "number": "8",
+    "dimensions": "60 x 50 cm",
+    "year": "2010",
+    "date": "01.10.2010",
+    "medium": {
+      "de": "Acryl auf Leinwand",
+      "en": "Acrylic on canvas",
+      "fr": "Acrylique sur toile"
+    },
+    "price": 1050,
+    "sold": false,
+    "published": true,
+    "sort_order": 139
+  },
+  {
+    "id": "ba82aa82-69f8-4d82-a4b3-f3c6a2a35ab6",
+    "slug": "al_7",
+    "kind": "painting",
+    "title": {
+      "de": "AL_7",
+      "en": "AL_7",
+      "fr": "AL_7"
+    },
+    "description": {
+      "de": "",
+      "en": "",
+      "fr": ""
+    },
+    "image": "/artworks/painting-35.jpg",
+    "source_url": "https://www.annina-laely-paintings.com/artwork/al_7",
+    "number": "7",
+    "dimensions": "50 x 40 cm",
+    "year": "2016",
+    "date": "01.09.2016",
+    "medium": {
+      "de": "Acryl auf Leinwand",
+      "en": "Acrylic on canvas",
+      "fr": "Acrylique sur toile"
+    },
+    "price": 950,
+    "sold": false,
+    "published": true,
+    "sort_order": 140
+  },
+  {
+    "id": "0822b7ee-de50-4692-abf4-76248d416b67",
+    "slug": "al_1",
+    "kind": "painting",
+    "title": {
+      "de": "AL_1",
+      "en": "AL_1",
+      "fr": "AL_1"
+    },
+    "description": {
+      "de": "",
+      "en": "",
+      "fr": ""
+    },
+    "image": "/artworks/painting-72.jpg",
+    "source_url": "https://www.annina-laely-paintings.com/artwork/al_1",
+    "number": "1",
+    "dimensions": "​",
+    "year": "2010",
+    "date": "01.01.2010",
+    "medium": {
+      "de": "Acryl auf Leinwand",
+      "en": "Acrylic on canvas",
+      "fr": "Acrylique sur toile"
+    },
+    "price": null,
+    "sold": false,
+    "published": true,
+    "sort_order": 141
+  },
+  {
+    "id": "74a9109c-4d47-4803-aca4-d073399cb78b",
+    "slug": "kuerbiszeit",
+    "kind": "painting",
+    "title": {
+      "de": "Kürbiszeit",
+      "en": "Kürbiszeit",
+      "fr": "Kürbiszeit"
+    },
+    "description": {
+      "de": "",
+      "en": "",
+      "fr": ""
+    },
+    "image": "/artworks/painting-94.jpg",
+    "source_url": "https://www.annina-laely-paintings.com/artwork/k%EF%BF%BDrbiszeit",
+    "number": "",
+    "dimensions": "",
+    "year": "",
+    "date": "",
+    "medium": {
+      "de": "",
+      "en": "",
+      "fr": ""
+    },
+    "price": null,
+    "sold": false,
+    "published": true,
+    "sort_order": 142
+  },
+  {
+    "id": "2d033c56-3473-4a17-a88c-2c282e6154f0",
+    "slug": "al_0",
+    "kind": "painting",
+    "title": {
+      "de": "AL_0",
+      "en": "AL_0",
+      "fr": "AL_0"
+    },
+    "description": {
+      "de": "",
+      "en": "",
+      "fr": ""
+    },
+    "image": "/artworks/painting-109.jpg",
+    "source_url": "https://www.annina-laely-paintings.com/artwork/al_0",
+    "number": "0",
+    "dimensions": "​",
+    "year": "2010",
+    "date": "01.01.2010",
+    "medium": {
+      "de": "",
+      "en": "",
+      "fr": ""
+    },
+    "price": null,
+    "sold": false,
+    "published": true,
+    "sort_order": 143
+  },
+  {
+    "id": "8aef2490-8330-460c-a427-a193cdf2c50c",
+    "slug": "show-0",
+    "kind": "show",
+    "title": {
+      "de": "HERITAGE AND HORIZON",
+      "en": "HERITAGE AND HORIZON",
+      "fr": "HERITAGE AND HORIZON"
+    },
+    "description": {
+      "de": "",
+      "en": "",
+      "fr": ""
+    },
+    "location": "Schlossmuseum, Greiz",
+    "start_date": "2024-10-19",
+    "end_date": "2025-01-12",
+    "image": "/artworks/show-0.jpg",
+    "external_url": "https://pashminart-museum.com/ausstellung-schlossmuseum-greiz-2024-annina-laely/",
+    "published": true,
+    "sort_order": 0
+  },
+  {
+    "id": "b4fe5308-1d5f-4b50-aed1-feba3c05dfd1",
+    "slug": "show-1",
+    "kind": "show",
+    "title": {
+      "de": "Feminine Power of Resilience and Renewal",
+      "en": "Feminine Power of Resilience and Renewal",
+      "fr": "Feminine Power of Resilience and Renewal"
+    },
+    "description": {
+      "de": "",
+      "en": "",
+      "fr": ""
+    },
+    "location": "Pashmin Art Gallery, Hamburg",
+    "start_date": "2024-09-07",
+    "end_date": "2024-10-04",
+    "image": "/artworks/show-1.jpg",
+    "external_url": "https://pashminart-gallery.com/en/feminine-power-of-resilience-and-renewal-group-exhibition-in-hamburg-september-2024/",
+    "published": true,
+    "sort_order": 1
+  },
+  {
+    "id": "368f6934-c123-4f97-a90f-055f24387692",
+    "slug": "show-2",
+    "kind": "show",
+    "title": {
+      "de": "Eurovisions - Kaleidoscopes of European Art",
+      "en": "Eurovisions - Kaleidoscopes of European Art",
+      "fr": "Eurovisions - Kaleidoscopes of European Art"
+    },
+    "description": {
+      "de": "",
+      "en": "",
+      "fr": ""
+    },
+    "location": "Archive Art Museum, China",
+    "start_date": "2024-05-24",
+    "end_date": "2024-06-24",
+    "image": "/artworks/show-2.jpg",
+    "external_url": "https://pashminart-consortia.com",
+    "published": true,
+    "sort_order": 2
+  },
+  {
+    "id": "eb943a85-c3a2-491f-a4cc-c0be3e670184",
+    "slug": "show-3",
+    "kind": "show",
+    "title": {
+      "de": "VOYAGES OF VISION",
+      "en": "VOYAGES OF VISION",
+      "fr": "VOYAGES OF VISION"
+    },
+    "description": {
+      "de": "",
+      "en": "",
+      "fr": ""
+    },
+    "location": "Pashmin Art Gallery, Bad Tölz",
+    "start_date": "2023-11-25",
+    "end_date": "2023-12-30",
+    "image": "/artworks/show-3.jpg",
+    "external_url": "https://pashminart-gallery.com/voyages-of-vision/",
+    "published": true,
+    "sort_order": 3
+  },
+  {
+    "id": "2dd3e9ce-86eb-40fe-a3a6-650c0b8489c8",
+    "slug": "show-4",
+    "kind": "show",
+    "title": {
+      "de": "Feminine Power on Canvas",
+      "en": "Feminine Power on Canvas",
+      "fr": "Feminine Power on Canvas"
+    },
+    "description": {
+      "de": "",
+      "en": "",
+      "fr": ""
+    },
+    "location": "Pashmin Art Gallery, Hamburg",
+    "start_date": "2023-07-01",
+    "end_date": "2023-07-21",
+    "image": "/artworks/show-4.jpg",
+    "external_url": "https://pashminart-gallery.com/en/feminine-power-on-canvas-iii-2/",
+    "published": true,
+    "sort_order": 4
+  },
+  {
+    "id": "c57fd02b-614a-45d8-a377-64d83eef69be",
+    "slug": "show-5",
+    "kind": "show",
+    "title": {
+      "de": "PASHMIN ART CONSORTIA AND HONG ART MUSEUM",
+      "en": "PASHMIN ART CONSORTIA AND HONG ART MUSEUM",
+      "fr": "PASHMIN ART CONSORTIA AND HONG ART MUSEUM"
+    },
+    "description": {
+      "de": "",
+      "en": "",
+      "fr": ""
+    },
+    "location": "Chongqing, China",
+    "start_date": "2022-07-08",
+    "end_date": "2022-10-28",
+    "image": "/artworks/show-5.jpg",
+    "external_url": "",
+    "published": true,
+    "sort_order": 5
+  },
+  {
+    "id": "83160ca0-2a9c-48aa-acbe-fcdecd0840cd",
+    "slug": "show-6",
+    "kind": "show",
+    "title": {
+      "de": "color and light",
+      "en": "color and light",
+      "fr": "color and light"
+    },
+    "description": {
+      "de": "",
+      "en": "",
+      "fr": ""
+    },
+    "location": "Zoppi Juwelier, Chur",
+    "start_date": "2015-10-19",
+    "end_date": "2015-11-14",
+    "image": "/artworks/show-6.jpg",
+    "external_url": "https://www.facebook.com/events/zoppi-juwelier-chur/kunstausstellung-color-light-mit-der-k%C3%BCnstlerin-annina-laely/1716534088583704/",
+    "published": true,
+    "sort_order": 6
+  },
+  {
+    "title": {
+      "de": "Die Verschmelzung von Natur, Emotion und künstlerischer Begabung",
+      "en": "The Confluence of Nature, Emotion, and Artistry",
+      "fr": "La rencontre de la nature, de l’émotion et de l’art"
+    },
+    "publisher": "Global Art Magazine",
+    "date": "2024-02-09",
+    "links": {
+      "de": "https://globalartmagazine.com/die-verschmelzung-von-natur-emotion-und-kuenstlerischer-begabung/",
+      "en": "https://globalartmagazine.com/en/the-fusion-of-nature-emotion-and-artistic-talent/"
+    },
+    "id": "1e9b09cf-f095-4c9c-a1ef-cfa9fb29ca63",
+    "slug": "article-0",
+    "kind": "article",
+    "description": {
+      "de": "",
+      "en": "",
+      "fr": ""
+    },
+    "image": "/artworks/article-0.jpg",
+    "published": true,
+    "sort_order": 0
+  },
+  {
+    "title": {
+      "de": "Annina Laely — Natur, Emotion und Kunst",
+      "en": "Annina Laely — nature, emotion and art",
+      "fr": "Annina Laely — la confluence de la nature, de l’émotion et de l’art"
+    },
+    "publisher": "L’Éventail",
+    "date": "2023-04-12",
+    "links": {
+      "fr": "https://www.eventail.be/art-et-culture/marche-de-lart/annina-laely-la-confluence-de-la-nature-de-lemotion-et-de-lart"
+    },
+    "id": "98f36c4a-200c-4244-afc6-5a68e7189f6f",
+    "slug": "article-1",
+    "kind": "article",
+    "description": {
+      "de": "",
+      "en": "",
+      "fr": ""
+    },
+    "image": "/artworks/article-1.jpg",
+    "published": true,
+    "sort_order": 1
+  },
+  {
+    "title": {
+      "de": "Precious No. 7",
+      "en": "Precious No. 7",
+      "fr": "Precious No. 7"
+    },
+    "publisher": "Precious",
+    "date": "2015-12-01",
+    "links": {
+      "de": "https://www.annina-laely-paintings.com/_files/ugd/dbd7de_b9bf1996005e478cbf40c807c303b851.pdf"
+    },
+    "id": "d1e647e9-6cca-495a-a95b-285ea80c898f",
+    "slug": "article-2",
+    "kind": "article",
+    "description": {
+      "de": "",
+      "en": "",
+      "fr": ""
+    },
+    "image": "/artworks/article-2.jpg",
+    "published": true,
+    "sort_order": 2
+  }
+]
