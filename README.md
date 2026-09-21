@@ -34,7 +34,7 @@ Zugriffe werden durch Row Level Security gesch√ºtzt, nicht nur durch die Oberfl√
 
 ## Vercel und GitHub
 
-Das lokale Git-Repository existiert bereits. Ein GitHub-Remote und Vercel-/Supabase-Projekt sind noch nicht verbunden.
+Das GitHub-Repository ist unter `joergsigrist/annina-laely-paintings` verbunden. Vercel und Supabase werden projektbezogen eingerichtet.
 
 1. Repository zu GitHub pushen und in Vercel importieren.
 2. Framework Vite, Build `npm run build`, Ausgabe `dist`.
