@@ -27,3 +27,8 @@ export type Content = {
 export const languages: Lang[] = ["de", "en", "fr"];
 export const localized = (value: Localized | undefined, lang: Lang) =>
   value?.[lang] || value?.de || value?.en || value?.fr || "";
+
+export const artworkTitle = (value: Localized | undefined, lang: Lang) => {
+  const title = localized(value, lang).trim();
+  return /^AL_/i.test(title) ? "" : title;
+};

@@ -1,7 +1,7 @@
 import { useEffect } from "react";
 import { useLocation } from "react-router-dom";
 import { useSite } from "./App";
-import { languages, localized } from "./types";
+import { artworkTitle, languages, localized } from "./types";
 
 const origin = "https://www.annina-laely-paintings.com";
 
@@ -99,10 +99,13 @@ export default function Seo() {
       title = `${t.contact} | Annina Laely`;
       description = copy.contactDescription;
     } else if (artwork) {
-      const artworkTitle = localized(artwork.title, lang);
-      title = `${artworkTitle} | Annina Laely`;
+      const visibleTitle = artworkTitle(artwork.title, lang);
+      const seoTitle =
+        visibleTitle ||
+        `${lang === "de" ? "Werk" : lang === "fr" ? "Œuvre" : "Artwork"} ${artwork.number || ""}`.trim();
+      title = `${seoTitle} | Annina Laely`;
       description = [
-        `${artworkTitle} — ${lang === "de" ? "Werk von" : lang === "fr" ? "œuvre de" : "artwork by"} Annina Laely.`,
+        `${seoTitle} — ${lang === "de" ? "Werk von" : lang === "fr" ? "œuvre de" : "artwork by"} Annina Laely.`,
         localized(artwork.medium, lang),
         artwork.dimensions,
         artwork.year,
@@ -209,7 +212,9 @@ export default function Seo() {
     if (artwork) {
       (structuredData["@graph"] as Record<string, unknown>[]).push({
         "@type": "VisualArtwork",
-        name: localized(artwork.title, lang),
+        name:
+          artworkTitle(artwork.title, lang) ||
+          `${lang === "de" ? "Werk" : lang === "fr" ? "Œuvre" : "Artwork"} ${artwork.number || ""}`.trim(),
         url: canonical,
         image: `${origin}${artwork.image}`,
         creator: { "@id": `${origin}/#annina-laely` },

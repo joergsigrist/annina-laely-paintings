@@ -28,7 +28,13 @@ import {
   Maximize2,
 } from "lucide-react";
 import { copy } from "./i18n";
-import { type Content, type Lang, languages, localized } from "./types";
+import {
+  artworkTitle,
+  type Content,
+  type Lang,
+  languages,
+  localized,
+} from "./types";
 import { supabase } from "./lib/supabase";
 import Seo from "./Seo";
 import seed from "./data/content.json";
@@ -226,33 +232,36 @@ function Gallery() {
         </span>
       </div>
       <section className="art-grid" aria-label={t.gallery}>
-        {paintings.slice(0, count).map((art, i) => (
-          <Link
-            className={`art-card art-card-${i % 6}`}
-            key={art.id}
-            to={`/${lang}/artwork/${art.slug}`}
-            aria-label={`${t.view}: ${localized(art.title, lang)}`}
-          >
-            <div className="art-stage">
-              <img
-                src={art.image}
-                alt={localized(art.title, lang)}
-                loading={i < 2 ? "eager" : "lazy"}
-              />
-              <span className="art-open">
-                <Plus size={24} />
-              </span>
-            </div>
-            <div className="art-caption">
-              <h2>{localized(art.title, lang)}</h2>
-              <span>{art.year}</span>
-            </div>
-            <p>
-              {localized(art.medium, lang)}
-              {art.dimensions && ` · ${art.dimensions}`}
-            </p>
-          </Link>
-        ))}
+        {paintings.slice(0, count).map((art, i) => {
+          const title = artworkTitle(art.title, lang);
+          return (
+            <Link
+              className={`art-card art-card-${i % 6}`}
+              key={art.id}
+              to={`/${lang}/artwork/${art.slug}`}
+              aria-label={title ? `${t.view}: ${title}` : t.view}
+            >
+              <div className="art-stage">
+                <img
+                  src={art.image}
+                  alt={title || `${t.number} ${art.number || ""}`.trim()}
+                  loading={i < 2 ? "eager" : "lazy"}
+                />
+                <span className="art-open">
+                  <Plus size={24} />
+                </span>
+              </div>
+              <div className="art-caption">
+                {title && <h2>{title}</h2>}
+                <span>{art.year}</span>
+              </div>
+              <p>
+                {localized(art.medium, lang)}
+                {art.dimensions && ` · ${art.dimensions}`}
+              </p>
+            </Link>
+          );
+        })}
       </section>
       {count < paintings.length && (
         <div className="load-more">
@@ -267,12 +276,6 @@ function Gallery() {
           </span>
         </div>
       )}
-      <section className="quote-band">
-        <p>«{t.quote}»</p>
-        <Link to={`/${lang}/about`}>
-          Annina Laely <ArrowUpRight size={18} />
-        </Link>
-      </section>
     </>
   );
 }
@@ -294,7 +297,8 @@ function Painting() {
     };
   }, []);
   if (!art) return <NotFound />;
-  const title = localized(art.title, lang);
+  const title = artworkTitle(art.title, lang);
+  const enquiryReference = title || `${t.number} ${art.number || ""}`.trim();
   return (
     <section className="detail-page">
       <Link className="text-link" to={`/${lang}/gallery`}>
@@ -317,7 +321,7 @@ function Painting() {
           <p className="eyebrow">
             {t.number} {art.number}
           </p>
-          <h1>{title}</h1>
+          {title && <h1>{title}</h1>}
           <p className="detail-description">
             {localized(art.description, lang)}
           </p>
@@ -349,7 +353,7 @@ function Painting() {
           </p>
           <Link
             className="dark-button"
-            to={`/${lang}/contact?artwork=${encodeURIComponent(title)}`}
+            to={`/${lang}/contact?artwork=${encodeURIComponent(enquiryReference)}`}
           >
             {t.inquire}
             <ArrowUpRight size={18} />
@@ -362,7 +366,11 @@ function Painting() {
             <ArrowLeft size={20} />
             <span>
               {t.previous}
-              <strong>{localized(paintings[index - 1].title, lang)}</strong>
+              {artworkTitle(paintings[index - 1].title, lang) && (
+                <strong>
+                  {artworkTitle(paintings[index - 1].title, lang)}
+                </strong>
+              )}
             </span>
           </Link>
         ) : (
@@ -375,7 +383,11 @@ function Painting() {
           <Link to={`/${lang}/artwork/${paintings[index + 1].slug}`}>
             <span>
               {t.next}
-              <strong>{localized(paintings[index + 1].title, lang)}</strong>
+              {artworkTitle(paintings[index + 1].title, lang) && (
+                <strong>
+                  {artworkTitle(paintings[index + 1].title, lang)}
+                </strong>
+              )}
             </span>
             <ArrowRight size={20} />
           </Link>
@@ -399,7 +411,7 @@ function Painting() {
           <X />
         </button>
         <img src={art.image} alt={title} />
-        <p>{title}</p>
+        {title && <p>{title}</p>}
       </dialog>
     </section>
   );
@@ -515,7 +527,10 @@ function Contact() {
   const [busy, setBusy] = useState(false);
   async function submit(e: FormEvent<HTMLFormElement>) {
     e.preventDefault();
-    if (!supabase) return;
+    if (!supabase) {
+      setStatus("missing");
+      return;
+    }
     setBusy(true);
     setStatus("");
     const f = new FormData(e.currentTarget);
@@ -536,22 +551,9 @@ function Contact() {
         <p className="eyebrow">{t.contact}</p>
         <h1>{t.contactTitle}</h1>
         <p>{t.contactIntro}</p>
-        <span className="contact-signature">AL.</span>
+        <span className="contact-signature">AL</span>
       </div>
-      {!supabase ? (
-        <div className="contact-unconnected">
-          <p>{t.offlineContact}</p>
-          <a
-            className="dark-button"
-            href="https://www.annina-laely-paintings.com/contact"
-            target="_blank"
-            rel="noreferrer"
-          >
-            {t.oldContact}
-            <ArrowUpRight size={18} />
-          </a>
-        </div>
-      ) : status === "sent" ? (
+      {status === "sent" ? (
         <div className="success-message" role="status">
           {t.sent}
         </div>
@@ -600,6 +602,7 @@ function Contact() {
           </label>
           <p className="muted">{t.contactNotice}</p>
           {status === "error" && <p role="alert">{t.error}</p>}
+          {status === "missing" && <p role="alert">{t.serverMissing}</p>}
           <button className="dark-button" disabled={busy}>
             {busy ? t.sending : t.send}
             <ArrowUpRight size={18} />
