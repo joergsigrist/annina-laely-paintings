@@ -30,6 +30,7 @@ import {
 import { copy } from "./i18n";
 import { type Content, type Lang, languages, localized } from "./types";
 import { supabase } from "./lib/supabase";
+import Seo from "./Seo";
 import seed from "./data/content.json";
 const Admin = lazy(() => import("./Admin"));
 const Context = createContext<{
@@ -55,6 +56,7 @@ function Site() {
   const [menu, setMenu] = useState(false);
   const location = useLocation();
   const t = copy[lang];
+  const isHome = location.pathname === `/${lang}`;
   async function refresh() {
     if (!supabase) return;
     setLoading(true);
@@ -83,110 +85,124 @@ function Site() {
   }, []);
   useEffect(() => {
     document.documentElement.lang = lang;
-    document.title = `Annina Laely — ${t.art}`;
-    document
-      .querySelector('meta[name="description"]')
-      ?.setAttribute("content", t.intro);
     setMenu(false);
     window.scrollTo(0, 0);
   }, [lang, location.pathname]);
   if (!languages.includes(raw as Lang)) return <Navigate to="/de" replace />;
   return (
     <Context.Provider value={{ lang, data, refresh }}>
-      <a className="skip-link" href="#main">
-        {t.skip}
-      </a>
-      <header className="site-header">
-        <Link to={`/${lang}`} className="brand" aria-label="Annina Laely">
-          <span className="monogram">
-            AL<span>·</span>
-          </span>
-          <span>
-            ANNINA LAELY<small>{t.art}</small>
-          </span>
-        </Link>
-        <button
-          className="menu-toggle icon-button"
-          aria-label={t.menu}
-          aria-expanded={menu}
-          onClick={() => setMenu(!menu)}
-        >
-          {menu ? <X /> : <Menu />}
-        </button>
-        <nav
-          className={menu ? "main-nav open" : "main-nav"}
-          aria-label={t.menu}
-        >
-          {[
-            ["", t.gallery],
-            ["shows", t.shows],
-            ["articles", t.articles],
-            ["about", t.about],
-            ["contact", t.contact],
-          ].map(([path, label]) => (
-            <NavLink key={path} end to={`/${lang}${path ? "/" + path : ""}`}>
-              {label}
-            </NavLink>
-          ))}
-        </nav>
-        <nav className="language-nav" aria-label={t.language}>
-          {languages.map((l) => (
-            <Link
-              key={l}
-              lang={l}
-              aria-label={{ de: "Deutsch", en: "English", fr: "Français" }[l]}
-              aria-current={l === lang ? "page" : undefined}
-              to={`/${l}${location.pathname.slice(3)}${location.search}`}
-            >
-              {l.toUpperCase()}
+      <Seo />
+      <div className={isHome ? "site home-view" : "site"}>
+        <a className="skip-link" href="#main">
+          {t.skip}
+        </a>
+        <header className="site-header">
+          <Link to={`/${lang}`} className="brand" aria-label="Annina Laely">
+            <span className="monogram">
+              AL<span>·</span>
+            </span>
+            <span>
+              ANNINA LAELY<small>{t.art}</small>
+            </span>
+          </Link>
+          <button
+            className="menu-toggle icon-button"
+            aria-label={t.menu}
+            aria-expanded={menu}
+            onClick={() => setMenu(!menu)}
+          >
+            {menu ? <X /> : <Menu />}
+          </button>
+          <nav
+            className={menu ? "main-nav open" : "main-nav"}
+            aria-label={t.menu}
+          >
+            {[
+              ["gallery", t.gallery],
+              ["shows", t.shows],
+              ["articles", t.articles],
+              ["about", t.about],
+              ["contact", t.contact],
+            ].map(([path, label]) => (
+              <NavLink key={path} end to={`/${lang}${path ? "/" + path : ""}`}>
+                {label}
+              </NavLink>
+            ))}
+          </nav>
+          <nav className="language-nav" aria-label={t.language}>
+            {languages.map((l) => (
+              <Link
+                key={l}
+                lang={l}
+                aria-label={{ de: "Deutsch", en: "English", fr: "Français" }[l]}
+                aria-current={l === lang ? "page" : undefined}
+                to={`/${l}${location.pathname.slice(3)}${location.search}`}
+              >
+                {l.toUpperCase()}
+              </Link>
+            ))}
+          </nav>
+        </header>
+        <main id="main">
+          {error ? (
+            <section className="status">
+              <h1>{t.connectionError}</h1>
+              <button onClick={refresh}>{t.retry}</button>
+            </section>
+          ) : loading ? (
+            <section className="status" role="status">
+              {t.loading}
+            </section>
+          ) : (
+            <Suspense fallback={<div className="status">{t.loading}</div>}>
+              <Routes>
+                <Route index element={<Home />} />
+                <Route path="gallery" element={<Gallery />} />
+                <Route path="artwork/:slug" element={<Painting />} />
+                <Route path="shows" element={<Editorial kind="show" />} />
+                <Route path="articles" element={<Editorial kind="article" />} />
+                <Route path="about" element={<About />} />
+                <Route path="contact" element={<Contact />} />
+                <Route path="admin" element={<Admin />} />
+                <Route path="*" element={<NotFound />} />
+              </Routes>
+            </Suspense>
+          )}
+        </main>
+        <footer>
+          <Link className="footer-name" to={`/${lang}`}>
+            Annina Laely<span>{t.art}</span>
+          </Link>
+          <p>
+            © {new Date().getFullYear()} Annina Laely
+            <br />
+            {t.rights}
+          </p>
+          <div>
+            <Link to={`/${lang}/contact`}>
+              {t.contact} <ArrowUpRight size={16} />
             </Link>
-          ))}
-        </nav>
-      </header>
-      <main id="main">
-        {error ? (
-          <section className="status">
-            <h1>{t.connectionError}</h1>
-            <button onClick={refresh}>{t.retry}</button>
-          </section>
-        ) : loading ? (
-          <section className="status" role="status">
-            {t.loading}
-          </section>
-        ) : (
-          <Suspense fallback={<div className="status">{t.loading}</div>}>
-            <Routes>
-              <Route index element={<Gallery />} />
-              <Route path="artwork/:slug" element={<Painting />} />
-              <Route path="shows" element={<Editorial kind="show" />} />
-              <Route path="articles" element={<Editorial kind="article" />} />
-              <Route path="about" element={<About />} />
-              <Route path="contact" element={<Contact />} />
-              <Route path="admin" element={<Admin />} />
-              <Route path="*" element={<NotFound />} />
-            </Routes>
-          </Suspense>
-        )}
-      </main>
-      <footer>
-        <Link className="footer-name" to={`/${lang}`}>
-          Annina Laely<span>{t.art}</span>
-        </Link>
-        <p>
-          © {new Date().getFullYear()} Annina Laely
-          <br />
-          {t.rights}
-        </p>
-        <div>
-          <Link to={`/${lang}/contact`}>
-            {t.contact} <ArrowUpRight size={16} />
-          </Link>
-          <Link className="muted" to={`/${lang}/admin`}>
-            {t.admin}
-          </Link>
-        </div>
-      </footer>
+            <Link className="muted" to={`/${lang}/admin`}>
+              {t.admin}
+            </Link>
+          </div>
+        </footer>
+      </div>
     </Context.Provider>
+  );
+}
+function Home() {
+  const { lang, t } = useSite();
+  return (
+    <section className="home-hero" aria-labelledby="home-title">
+      <div className="home-hero-content">
+        <p className="home-statement">Let the painting be the star</p>
+        <h1 id="home-title">Annina Laely</h1>
+        <Link className="home-enter" to={`/${lang}/gallery`}>
+          {t.gallery} <ArrowRight size={20} />
+        </Link>
+      </div>
+    </section>
   );
 }
 function Gallery() {
@@ -283,7 +299,7 @@ function Painting() {
   const title = localized(art.title, lang);
   return (
     <section className="detail-page">
-      <Link className="text-link" to={`/${lang}`}>
+      <Link className="text-link" to={`/${lang}/gallery`}>
         <ArrowLeft size={17} />
         {t.back}
       </Link>
@@ -600,7 +616,7 @@ function NotFound() {
   return (
     <section className="status">
       <h1>{t.notFound}</h1>
-      <Link to={`/${lang}`}>{t.home}</Link>
+      <Link to={`/${lang}/gallery`}>{t.home}</Link>
     </section>
   );
 }
@@ -609,7 +625,7 @@ export default function App() {
     <Routes>
       <Route path="/" element={<Navigate to="/de" replace />} />
       <Route path="/artwork/:slug" element={<LegacyArtwork />} />
-      <Route path="/artwork" element={<Navigate to="/de" replace />} />
+      <Route path="/artwork" element={<Navigate to="/de/gallery" replace />} />
       <Route path="/shows-1" element={<Navigate to="/de/shows" replace />} />
       <Route
         path="/articles"

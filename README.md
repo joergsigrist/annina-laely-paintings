@@ -42,7 +42,7 @@ Das lokale Git-Repository existiert bereits. Ein GitHub-Remote und Vercel-/Supab
 4. Deployen und Login, Upload und Kontaktformular gegen das gewählte Projekt prüfen.
 5. Erst nach Abnahme die bestehende Domain umstellen. Die bisherige Website bleibt bis dahin bestehen.
 
-`vercel.json` enthält SPA-Routing und grundlegende Security-Header. Alte Seitenpfade werden auf passende neue Routen weitergeleitet. Alle Sprachvarianten haben eigene URLs; ein Wechsel behält die aktuelle Seite bei. Die Website ist eine kleine clientseitige Anwendung; seitenindividuelles servergerendertes SEO ist nicht eingerichtet.
+`vercel.json` enthält SPA-Routing und grundlegende Security-Header. Alte Seitenpfade werden auf passende neue Routen weitergeleitet. Alle Sprachvarianten haben eigene URLs; ein Wechsel behält die aktuelle Seite bei. Der Produktionsbuild erzeugt für die Startseiten, Inhaltsseiten und 144 Werkdetails in allen drei Sprachen eigene indexierbare HTML-Einstiege mit Seitentitel, Beschreibung, Canonical URL, `hreflang`, strukturierten Daten und einer Sitemap. Der Administrationsbereich ist für Suchmaschinen gesperrt.
 
 ## Herkunft und bekannte Datenlücke
 
@@ -67,7 +67,7 @@ npm run build
 
 Die Tests führen die tatsächliche Migration und den Seed in lokalem PostgreSQL (PGlite) aus. Die Supabase-eigenen Auth- und Storage-Grundtabellen werden dafür minimal nachgebildet. Geprüft werden veröffentlichte Inhalte, Entwurfsschutz, fehlende Schreibrechte für Besucher und Nicht-Administratoren, Adminrechte, Kontaktvalidierung und Versandlimits. Ein Live-End-to-End-Test gegen Supabase Auth und Storage steht nach der Verbindung des echten Projekts noch aus.
 
-Im Browser geprüft: Galerie, Werkdetails, Vergrösserung mit Escape, Sprachwechsel und mobile Darstellung bei 390 px.
+Im Browser geprüft: Startseite mit Original-Hintergrundbild, Galerie, Werkdetails, Vergrösserung mit Escape, Sprachwechsel und mobile Darstellung bei 390 px.
 
 ## Referenzen
 
